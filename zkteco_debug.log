@@ -1,0 +1,769 @@
+2025-05-22 23:41:54.767290: ==================================================
+2025-05-22 23:41:54.767649: ZKTeco Sync Service Started
+2025-05-22 23:41:54.767866: Configuration:
+2025-05-22 23:41:54.768057:   - Production Mode: True
+2025-05-22 23:41:54.768280:   - Real Device: False
+2025-05-22 23:41:54.768476:   - Interval: 2 minutes
+2025-05-22 23:41:54.768638:   - Target URL: https://hrm.boxleocourier.com/api/sync-zkteco
+2025-05-22 23:41:54.768829: ==================================================
+2025-05-22 23:41:55.827400: Server response: 404 - {
+    "message": "The route api/sync-zkteco could not be found.",
+    "exception": "Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException",
+    "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php",
+    "line": 44,
+    "trace": [
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php",
+            "line": 162,
+            "function": "handleMatchedRoute",
+            "class": "Illuminate\\Routing\\AbstractRouteCollection",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 761,
+            "function": "match",
+            "class": "Illuminate\\Routing\\RouteCollection",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 748,
+            "function": "findRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 737,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 144,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php",
+            "line": 40,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php",
+            "line": 99,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php",
+            "line": 62,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php",
+            "line": 39,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 119,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/public/index.php",
+            "line": 52,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        }
+    ]
+}
+2025-05-22 23:41:55.828319: Failed to send data to PRODUCTION
+2025-05-22 23:43:12.548514: Service stopped by user
+2025-05-22 23:43:18.827653: ==================================================
+2025-05-22 23:43:18.827874: ZKTeco Sync Service Started
+2025-05-22 23:43:18.828051: Configuration:
+2025-05-22 23:43:18.828199:   - Production Mode: False
+2025-05-22 23:43:18.828369:   - Real Device: False
+2025-05-22 23:43:18.828503:   - Interval: 2 minutes
+2025-05-22 23:43:18.828651:   - Target URL: http://127.0.0.1:8000/api/v1/syncZkteco
+2025-05-22 23:43:18.828798: ==================================================
+2025-05-22 23:43:18.957487: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:43:18.958071: Successfully sent 2 records to LOCAL
+2025-05-22 23:45:19.230110: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:45:19.230787: Successfully sent 2 records to LOCAL
+2025-05-22 23:47:19.550974: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:47:19.556379: Successfully sent 2 records to LOCAL
+2025-05-22 23:49:19.806808: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:49:19.808964: Successfully sent 2 records to LOCAL
+2025-05-22 23:51:20.124083: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:51:20.125843: Successfully sent 2 records to LOCAL
+2025-05-22 23:53:20.362328: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:53:20.363024: Successfully sent 2 records to LOCAL
+2025-05-22 23:55:20.593425: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:55:20.594660: Successfully sent 2 records to LOCAL
+2025-05-22 23:57:20.874625: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:57:20.875211: Successfully sent 2 records to LOCAL
+2025-05-22 23:59:21.215369: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-22 23:59:21.216663: Successfully sent 2 records to LOCAL
+2025-05-23 00:01:21.504439: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:01:21.507459: Successfully sent 2 records to LOCAL
+2025-05-23 00:03:21.750042: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:03:21.754003: Successfully sent 2 records to LOCAL
+2025-05-23 00:05:22.093265: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:05:22.094593: Successfully sent 2 records to LOCAL
+2025-05-23 00:07:22.397863: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:07:22.398811: Successfully sent 2 records to LOCAL
+2025-05-23 00:09:22.646255: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:09:22.647006: Successfully sent 2 records to LOCAL
+2025-05-23 00:11:22.923515: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:11:22.924360: Successfully sent 2 records to LOCAL
+2025-05-23 00:13:23.171072: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:13:23.171804: Successfully sent 2 records to LOCAL
+2025-05-23 00:15:23.398560: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:15:23.399173: Successfully sent 2 records to LOCAL
+2025-05-23 00:17:23.596949: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:17:23.597480: Successfully sent 2 records to LOCAL
+2025-05-23 00:19:23.799591: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:19:23.800251: Successfully sent 2 records to LOCAL
+2025-05-23 00:21:24.046382: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:21:24.047054: Successfully sent 2 records to LOCAL
+2025-05-23 00:23:24.267470: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:23:24.268212: Successfully sent 2 records to LOCAL
+2025-05-23 00:25:24.550119: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:25:24.551611: Successfully sent 2 records to LOCAL
+2025-05-23 00:27:24.843212: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:27:24.846092: Successfully sent 2 records to LOCAL
+2025-05-23 00:29:25.127078: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:29:25.133350: Successfully sent 2 records to LOCAL
+2025-05-23 00:31:25.409775: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:31:25.410497: Successfully sent 2 records to LOCAL
+2025-05-23 00:33:25.618523: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:33:25.619258: Successfully sent 2 records to LOCAL
+2025-05-23 00:35:25.840051: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:35:25.840981: Successfully sent 2 records to LOCAL
+2025-05-23 00:37:26.068786: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:37:26.069410: Successfully sent 2 records to LOCAL
+2025-05-23 00:39:26.311172: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:39:26.311811: Successfully sent 2 records to LOCAL
+2025-05-23 00:41:26.507458: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:41:26.510276: Successfully sent 2 records to LOCAL
+2025-05-23 00:43:26.818306: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 00:43:26.821978: Successfully sent 2 records to LOCAL
+2025-05-23 05:46:09.782701: ==================================================
+2025-05-23 05:46:09.782994: ZKTeco Sync Service Started
+2025-05-23 05:46:09.783172: Configuration:
+2025-05-23 05:46:09.783330:   - Production Mode: True
+2025-05-23 05:46:09.783481:   - Real Device: False
+2025-05-23 05:46:09.783620:   - Interval: 5 minutes
+2025-05-23 05:46:09.783789:   - Target URL: https://hrm.boxleocourier.com/api/sync-zkteco
+2025-05-23 05:46:09.783966: ==================================================
+2025-05-23 05:46:10.442513: Server response: 404 - {
+    "message": "The route api/sync-zkteco could not be found.",
+    "exception": "Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException",
+    "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php",
+    "line": 44,
+    "trace": [
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php",
+            "line": 162,
+            "function": "handleMatchedRoute",
+            "class": "Illuminate\\Routing\\AbstractRouteCollection",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 761,
+            "function": "match",
+            "class": "Illuminate\\Routing\\RouteCollection",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 748,
+            "function": "findRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 737,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 144,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php",
+            "line": 40,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php",
+            "line": 99,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php",
+            "line": 62,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php",
+            "line": 39,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 119,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/public/index.php",
+            "line": 52,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        }
+    ]
+}
+2025-05-23 05:46:10.443356: Failed to send data to PRODUCTION
+2025-05-23 05:46:47.004184: Service stopped by user
+2025-05-23 05:46:54.226145: ==================================================
+2025-05-23 05:46:54.226506: ZKTeco Sync Service Started
+2025-05-23 05:46:54.226731: Configuration:
+2025-05-23 05:46:54.226961:   - Production Mode: True
+2025-05-23 05:46:54.227160:   - Real Device: False
+2025-05-23 05:46:54.227347:   - Interval: 5 minutes
+2025-05-23 05:46:54.227549:   - Target URL: https://hrm.boxleocourier.com/api/v1/sync-zkteco
+2025-05-23 05:46:54.227764: ==================================================
+2025-05-23 05:46:54.990665: Server response: 404 - {
+    "message": "The route api/v1/sync-zkteco could not be found.",
+    "exception": "Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException",
+    "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php",
+    "line": 44,
+    "trace": [
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php",
+            "line": 162,
+            "function": "handleMatchedRoute",
+            "class": "Illuminate\\Routing\\AbstractRouteCollection",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 761,
+            "function": "match",
+            "class": "Illuminate\\Routing\\RouteCollection",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 748,
+            "function": "findRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 737,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 144,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php",
+            "line": 40,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php",
+            "line": 99,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php",
+            "line": 62,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php",
+            "line": 39,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 183,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 119,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/apps/boxleoHrm/public/index.php",
+            "line": 52,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        }
+    ]
+}
+2025-05-23 05:46:54.991627: Failed to send data to PRODUCTION
+2025-05-23 05:48:30.827672: Service stopped by user
+2025-05-23 05:48:37.153187: ==================================================
+2025-05-23 05:48:37.153446: ZKTeco Sync Service Started
+2025-05-23 05:48:37.153573: Configuration:
+2025-05-23 05:48:37.153707:   - Production Mode: True
+2025-05-23 05:48:37.153840:   - Real Device: False
+2025-05-23 05:48:37.154034:   - Interval: 5 minutes
+2025-05-23 05:48:37.154160:   - Target URL: https://hrm.boxleocourier.com/api/v1/syncZkteco
+2025-05-23 05:48:37.154264: ==================================================
+2025-05-23 05:48:37.926402: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 05:48:37.927395: Successfully sent 2 records to PRODUCTION
+2025-05-23 05:53:38.771887: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 05:53:38.772714: Successfully sent 2 records to PRODUCTION
+2025-05-23 05:58:40.054008: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 05:58:40.054992: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:03:40.909397: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:03:40.910752: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:08:41.662660: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:08:41.663452: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:11:23.348988: Service stopped by user
+2025-05-23 06:11:29.473952: ==================================================
+2025-05-23 06:11:29.474185: ZKTeco Sync Service Started
+2025-05-23 06:11:29.474301: Configuration:
+2025-05-23 06:11:29.474424:   - Production Mode: True
+2025-05-23 06:11:29.474526:   - Real Device: False
+2025-05-23 06:11:29.474624:   - Interval: 5 minutes
+2025-05-23 06:11:29.474719:   - Target URL: https://hrm.boxleocourier.com/api/v1/syncZkteco
+2025-05-23 06:11:29.474812: ==================================================
+2025-05-23 06:11:30.218338: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:11:30.219239: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:12:42.536159: Service stopped by user
+2025-05-23 06:12:49.092231: ==================================================
+2025-05-23 06:12:49.092480: ZKTeco Sync Service Started
+2025-05-23 06:12:49.092675: Configuration:
+2025-05-23 06:12:49.092867:   - Production Mode: False
+2025-05-23 06:12:49.093044:   - Real Device: False
+2025-05-23 06:12:49.093209:   - Interval: 5 minutes
+2025-05-23 06:12:49.093342:   - Target URL: http://127.0.0.1:8000/api/v1/syncZkteco
+2025-05-23 06:12:49.093470: ==================================================
+2025-05-23 06:12:49.104476: Request failed: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/v1/syncZkteco (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b9fec736b00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-23 06:12:49.104871: Failed to send data to LOCAL
+2025-05-23 06:13:58.517482: Service stopped by user
+2025-05-23 06:14:01.462888: ==================================================
+2025-05-23 06:14:01.463233: ZKTeco Sync Service Started
+2025-05-23 06:14:01.463461: Configuration:
+2025-05-23 06:14:01.463667:   - Production Mode: False
+2025-05-23 06:14:01.463882:   - Real Device: False
+2025-05-23 06:14:01.464074:   - Interval: 5 minutes
+2025-05-23 06:14:01.464254:   - Target URL: http://127.0.0.1:8000/api/v1/syncZkteco
+2025-05-23 06:14:01.464469: ==================================================
+2025-05-23 06:14:01.476603: Request failed: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/v1/syncZkteco (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x730038506b00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-23 06:14:01.476983: Failed to send data to LOCAL
+2025-05-23 06:16:51.484652: Service stopped by user
+2025-05-23 06:17:00.881652: ==================================================
+2025-05-23 06:17:00.881966: ZKTeco Sync Service Started
+2025-05-23 06:17:00.882212: Configuration:
+2025-05-23 06:17:00.882420:   - Production Mode: False
+2025-05-23 06:17:00.882609:   - Real Device: False
+2025-05-23 06:17:00.882773:   - Interval: 1 minutes
+2025-05-23 06:17:00.882939:   - Target URL: http://127.0.0.1:8000/api/v1/syncZkteco
+2025-05-23 06:17:00.883061: ==================================================
+2025-05-23 06:17:01.105903: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:17:01.106455: Successfully sent 2 records to LOCAL
+2025-05-23 06:18:01.289157: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:18:01.290647: Successfully sent 2 records to LOCAL
+2025-05-23 06:19:01.459611: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:19:01.461264: Successfully sent 2 records to LOCAL
+2025-05-23 06:20:01.637544: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:20:01.638156: Successfully sent 2 records to LOCAL
+2025-05-23 06:21:01.817150: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:21:01.818176: Successfully sent 2 records to LOCAL
+2025-05-23 06:22:02.433758: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:22:02.434481: Successfully sent 2 records to LOCAL
+2025-05-23 06:23:02.631973: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:23:02.636317: Successfully sent 2 records to LOCAL
+2025-05-23 06:24:02.899940: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:24:02.903076: Successfully sent 2 records to LOCAL
+2025-05-23 06:25:03.092331: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:25:03.100063: Successfully sent 2 records to LOCAL
+2025-05-23 06:26:03.298806: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:26:03.299478: Successfully sent 2 records to LOCAL
+2025-05-23 06:27:03.503486: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:27:03.505287: Successfully sent 2 records to LOCAL
+2025-05-23 06:27:33.190444: ==================================================
+2025-05-23 06:27:33.190677: ZKTeco Sync Service Started
+2025-05-23 06:27:33.190864: Configuration:
+2025-05-23 06:27:33.191011:   - Production Mode: True
+2025-05-23 06:27:33.191145:   - Real Device: False
+2025-05-23 06:27:33.191292:   - Interval: 1 minutes
+2025-05-23 06:27:33.191440:   - Target URL: https://hrm.boxleocourier.com/api/v1/syncZkteco
+2025-05-23 06:27:33.191540: ==================================================
+2025-05-23 06:27:33.938453: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:27:33.939183: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:28:34.759676: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:28:34.760748: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:29:35.907976: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:29:35.911562: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:30:36.725853: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:30:36.726556: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:31:37.556672: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:31:37.557543: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:32:38.281931: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:32:38.283133: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:33:39.075290: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:33:39.076254: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:34:39.823566: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:34:39.824404: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:35:40.659605: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:35:40.660661: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:36:41.596343: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:36:41.597557: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:37:42.408120: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:37:42.409215: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:38:43.183241: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:38:43.184065: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:39:44.011210: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:39:44.012162: Successfully sent 2 records to PRODUCTION
+2025-05-23 06:40:41.991881: ==================================================
+2025-05-23 06:40:41.992101: ZKTeco Sync Service Started
+2025-05-23 06:40:41.992250: Configuration:
+2025-05-23 06:40:41.992396:   - Production Mode: True
+2025-05-23 06:40:41.992528:   - Real Device: False
+2025-05-23 06:40:41.992664:   - Interval: 1 minutes
+2025-05-23 06:40:41.992805:   - Target URL: https://hrm.boxleocourier.com/api/v1/syncZkteco
+2025-05-23 06:40:41.992981: ==================================================
+2025-05-23 06:40:41.993678: Unexpected error: name 'now' is not defined
+2025-05-23 06:43:00.888810: ==================================================
+2025-05-23 06:43:00.889097: ZKTeco Sync Service Started
+2025-05-23 06:43:00.889229: Configuration:
+2025-05-23 06:43:00.889367:   - Production Mode: True
+2025-05-23 06:43:00.889481:   - Real Device: False
+2025-05-23 06:43:00.889588:   - Interval: 1 minutes
+2025-05-23 06:43:00.889692:   - Target URL: https://hrm.boxleocourier.com/api/v1/syncZkteco
+2025-05-23 06:43:00.889796: ==================================================
+2025-05-23 06:43:01.644722: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:43:01.645632: Successfully sent 4 records to PRODUCTION
+2025-05-23 06:44:02.473717: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:44:02.474745: Successfully sent 4 records to PRODUCTION
+2025-05-23 06:45:03.655123: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:45:03.656161: Successfully sent 4 records to PRODUCTION
+2025-05-23 06:46:04.486304: Server response: 200 - {"message":"ZKTeco records synced"}
+2025-05-23 06:46:04.488451: Successfully sent 4 records to PRODUCTION
