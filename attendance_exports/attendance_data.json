@@ -1,0 +1,8295 @@
+[
+    {
+        "user_id": "1",
+        "date": "2025-05-16",
+        "clock_in": "12:59:37",
+        "clock_out": "13:16:00",
+        "final_clock": "13:16:00",
+        "raw_punches": [
+            "12:59:37",
+            "13:09:43",
+            "13:09:55",
+            "13:10:04",
+            "13:12:29",
+            "13:13:43",
+            "13:15:45",
+            "13:16:00"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "12:59:37",
+                "out": "13:09:43"
+            },
+            {
+                "in": "13:09:55",
+                "out": "13:10:04"
+            },
+            {
+                "in": "13:12:29",
+                "out": "13:13:43"
+            },
+            {
+                "in": "13:15:45",
+                "out": "13:16:00"
+            }
+        ]
+    },
+    {
+        "user_id": "2",
+        "date": "2025-05-16",
+        "clock_in": "13:03:01",
+        "clock_out": "13:14:47",
+        "final_clock": "13:14:47",
+        "raw_punches": [
+            "13:03:01",
+            "13:14:09",
+            "13:14:28",
+            "13:14:47"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "13:03:01",
+                "out": "13:14:09"
+            },
+            {
+                "in": "13:14:28",
+                "out": "13:14:47"
+            }
+        ]
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-16",
+        "clock_in": "13:25:12",
+        "clock_out": "13:25:12",
+        "final_clock": "13:25:12",
+        "raw_punches": [
+            "13:25:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-16",
+        "clock_in": "13:32:41",
+        "clock_out": "16:06:18",
+        "final_clock": "16:06:18",
+        "raw_punches": [
+            "13:32:41",
+            "16:06:18"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "13:32:41",
+                "out": "16:06:18"
+            }
+        ]
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-16",
+        "clock_in": "13:35:36",
+        "clock_out": "13:35:36",
+        "final_clock": "13:35:36",
+        "raw_punches": [
+            "13:35:36"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "6",
+        "date": "2025-05-16",
+        "clock_in": "13:35:42",
+        "clock_out": "13:35:42",
+        "final_clock": "13:35:42",
+        "raw_punches": [
+            "13:35:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-17",
+        "clock_in": "08:59:21",
+        "clock_out": "14:34:53",
+        "final_clock": "14:34:53",
+        "raw_punches": [
+            "08:59:21",
+            "14:34:53"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:59:21",
+                "out": "14:34:53"
+            }
+        ]
+    },
+    {
+        "user_id": "8",
+        "date": "2025-05-17",
+        "clock_in": "09:04:17",
+        "clock_out": "09:04:17",
+        "final_clock": "09:04:17",
+        "raw_punches": [
+            "09:04:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-05-17",
+        "clock_in": "09:06:11",
+        "clock_out": "09:06:11",
+        "final_clock": "09:06:11",
+        "raw_punches": [
+            "09:06:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "2",
+        "date": "2025-05-17",
+        "clock_in": "09:06:22",
+        "clock_out": "12:14:14",
+        "final_clock": "12:14:14",
+        "raw_punches": [
+            "09:06:22",
+            "09:10:18",
+            "09:13:38",
+            "09:19:10",
+            "09:20:24",
+            "09:20:31",
+            "09:23:17",
+            "09:31:17",
+            "11:40:12",
+            "12:14:14"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:06:22",
+                "out": "09:10:18"
+            },
+            {
+                "in": "09:13:38",
+                "out": "09:19:10"
+            },
+            {
+                "in": "09:20:24",
+                "out": "09:20:31"
+            },
+            {
+                "in": "09:23:17",
+                "out": "09:31:17"
+            },
+            {
+                "in": "11:40:12",
+                "out": "12:14:14"
+            }
+        ]
+    },
+    {
+        "user_id": "10",
+        "date": "2025-05-17",
+        "clock_in": "09:07:57",
+        "clock_out": "09:07:57",
+        "final_clock": "09:07:57",
+        "raw_punches": [
+            "09:07:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-17",
+        "clock_in": "09:09:51",
+        "clock_out": "13:39:58",
+        "final_clock": "13:39:58",
+        "raw_punches": [
+            "09:09:51",
+            "11:35:07",
+            "11:35:16",
+            "12:39:11",
+            "13:39:48",
+            "13:39:58"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:09:51",
+                "out": "11:35:07"
+            },
+            {
+                "in": "11:35:16",
+                "out": "12:39:11"
+            },
+            {
+                "in": "13:39:48",
+                "out": "13:39:58"
+            }
+        ]
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-17",
+        "clock_in": "09:12:03",
+        "clock_out": "09:12:03",
+        "final_clock": "09:12:03",
+        "raw_punches": [
+            "09:12:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-17",
+        "clock_in": "09:13:29",
+        "clock_out": "09:13:29",
+        "final_clock": "09:13:29",
+        "raw_punches": [
+            "09:13:29"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-17",
+        "clock_in": "09:18:00",
+        "clock_out": "09:18:00",
+        "final_clock": "09:18:00",
+        "raw_punches": [
+            "09:18:00"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-05-17",
+        "clock_in": "09:18:59",
+        "clock_out": "10:03:54",
+        "final_clock": "10:03:54",
+        "raw_punches": [
+            "09:18:59",
+            "10:03:48",
+            "10:03:54"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:18:59",
+                "out": "10:03:48"
+            }
+        ]
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-17",
+        "clock_in": "09:20:08",
+        "clock_out": "09:20:08",
+        "final_clock": "09:20:08",
+        "raw_punches": [
+            "09:20:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-05-17",
+        "clock_in": "09:22:12",
+        "clock_out": "09:22:12",
+        "final_clock": "09:22:12",
+        "raw_punches": [
+            "09:22:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-17",
+        "clock_in": "09:24:31",
+        "clock_out": "09:24:31",
+        "final_clock": "09:24:31",
+        "raw_punches": [
+            "09:24:31"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-17",
+        "clock_in": "09:25:35",
+        "clock_out": "09:25:35",
+        "final_clock": "09:25:35",
+        "raw_punches": [
+            "09:25:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-17",
+        "clock_in": "09:29:31",
+        "clock_out": "13:44:53",
+        "final_clock": "13:44:53",
+        "raw_punches": [
+            "09:29:31",
+            "13:44:53"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:29:31",
+                "out": "13:44:53"
+            }
+        ]
+    },
+    {
+        "user_id": "21",
+        "date": "2025-05-17",
+        "clock_in": "09:33:36",
+        "clock_out": "15:42:41",
+        "final_clock": "15:42:41",
+        "raw_punches": [
+            "09:33:36",
+            "15:42:28",
+            "15:42:41"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:33:36",
+                "out": "15:42:28"
+            }
+        ]
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-17",
+        "clock_in": "09:36:17",
+        "clock_out": "15:42:51",
+        "final_clock": "15:42:51",
+        "raw_punches": [
+            "09:36:17",
+            "15:42:51"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:36:17",
+                "out": "15:42:51"
+            }
+        ]
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-17",
+        "clock_in": "09:38:51",
+        "clock_out": "09:38:51",
+        "final_clock": "09:38:51",
+        "raw_punches": [
+            "09:38:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-17",
+        "clock_in": "09:40:29",
+        "clock_out": "09:40:29",
+        "final_clock": "09:40:29",
+        "raw_punches": [
+            "09:40:29"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-17",
+        "clock_in": "09:42:32",
+        "clock_out": "09:42:32",
+        "final_clock": "09:42:32",
+        "raw_punches": [
+            "09:42:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-17",
+        "clock_in": "09:45:17",
+        "clock_out": "09:45:17",
+        "final_clock": "09:45:17",
+        "raw_punches": [
+            "09:45:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-17",
+        "clock_in": "09:48:34",
+        "clock_out": "09:48:34",
+        "final_clock": "09:48:34",
+        "raw_punches": [
+            "09:48:34"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-05-17",
+        "clock_in": "09:50:27",
+        "clock_out": "09:50:27",
+        "final_clock": "09:50:27",
+        "raw_punches": [
+            "09:50:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-17",
+        "clock_in": "09:53:57",
+        "clock_out": "09:53:57",
+        "final_clock": "09:53:57",
+        "raw_punches": [
+            "09:53:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-17",
+        "clock_in": "09:56:20",
+        "clock_out": "09:56:20",
+        "final_clock": "09:56:20",
+        "raw_punches": [
+            "09:56:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-17",
+        "clock_in": "09:57:32",
+        "clock_out": "09:57:32",
+        "final_clock": "09:57:32",
+        "raw_punches": [
+            "09:57:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-05-17",
+        "clock_in": "09:59:31",
+        "clock_out": "09:59:31",
+        "final_clock": "09:59:31",
+        "raw_punches": [
+            "09:59:31"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-17",
+        "clock_in": "10:01:28",
+        "clock_out": "10:01:28",
+        "final_clock": "10:01:28",
+        "raw_punches": [
+            "10:01:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-05-17",
+        "clock_in": "10:06:04",
+        "clock_out": "10:06:04",
+        "final_clock": "10:06:04",
+        "raw_punches": [
+            "10:06:04"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-05-17",
+        "clock_in": "10:10:04",
+        "clock_out": "12:21:20",
+        "final_clock": "12:21:20",
+        "raw_punches": [
+            "10:10:04",
+            "12:21:20"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:10:04",
+                "out": "12:21:20"
+            }
+        ]
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-17",
+        "clock_in": "10:11:02",
+        "clock_out": "10:11:02",
+        "final_clock": "10:11:02",
+        "raw_punches": [
+            "10:11:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-05-17",
+        "clock_in": "10:18:12",
+        "clock_out": "10:18:21",
+        "final_clock": "10:18:21",
+        "raw_punches": [
+            "10:18:12",
+            "10:18:21"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:18:12",
+                "out": "10:18:21"
+            }
+        ]
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-17",
+        "clock_in": "10:46:19",
+        "clock_out": "10:46:19",
+        "final_clock": "10:46:19",
+        "raw_punches": [
+            "10:46:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-17",
+        "clock_in": "13:43:55",
+        "clock_out": "13:43:55",
+        "final_clock": "13:43:55",
+        "raw_punches": [
+            "13:43:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-17",
+        "clock_in": "13:46:28",
+        "clock_out": "13:46:28",
+        "final_clock": "13:46:28",
+        "raw_punches": [
+            "13:46:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-19",
+        "clock_in": "10:58:27",
+        "clock_out": "10:58:27",
+        "final_clock": "10:58:27",
+        "raw_punches": [
+            "10:58:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-19",
+        "clock_in": "10:58:38",
+        "clock_out": "10:58:38",
+        "final_clock": "10:58:38",
+        "raw_punches": [
+            "10:58:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-19",
+        "clock_in": "13:34:56",
+        "clock_out": "13:36:22",
+        "final_clock": "13:36:22",
+        "raw_punches": [
+            "13:34:56",
+            "13:35:04",
+            "13:36:22"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "13:34:56",
+                "out": "13:35:04"
+            }
+        ]
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-19",
+        "clock_in": "13:36:08",
+        "clock_out": "13:36:08",
+        "final_clock": "13:36:08",
+        "raw_punches": [
+            "13:36:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-19",
+        "clock_in": "13:42:18",
+        "clock_out": "13:42:18",
+        "final_clock": "13:42:18",
+        "raw_punches": [
+            "13:42:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-19",
+        "clock_in": "14:12:26",
+        "clock_out": "14:12:57",
+        "final_clock": "14:12:57",
+        "raw_punches": [
+            "14:12:26",
+            "14:12:57"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "14:12:26",
+                "out": "14:12:57"
+            }
+        ]
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-19",
+        "clock_in": "14:12:31",
+        "clock_out": "14:12:31",
+        "final_clock": "14:12:31",
+        "raw_punches": [
+            "14:12:31"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-19",
+        "clock_in": "14:12:40",
+        "clock_out": "16:24:01",
+        "final_clock": "16:24:01",
+        "raw_punches": [
+            "14:12:40",
+            "16:24:01"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "14:12:40",
+                "out": "16:24:01"
+            }
+        ]
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-19",
+        "clock_in": "14:55:02",
+        "clock_out": "14:55:06",
+        "final_clock": "14:55:06",
+        "raw_punches": [
+            "14:55:02",
+            "14:55:06"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "14:55:02",
+                "out": "14:55:06"
+            }
+        ]
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-21",
+        "clock_in": "07:53:02",
+        "clock_out": "07:53:02",
+        "final_clock": "07:53:02",
+        "raw_punches": [
+            "07:53:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-21",
+        "clock_in": "07:53:28",
+        "clock_out": "07:53:28",
+        "final_clock": "07:53:28",
+        "raw_punches": [
+            "07:53:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-21",
+        "clock_in": "07:53:32",
+        "clock_out": "07:53:32",
+        "final_clock": "07:53:32",
+        "raw_punches": [
+            "07:53:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-21",
+        "clock_in": "08:09:02",
+        "clock_out": "08:09:02",
+        "final_clock": "08:09:02",
+        "raw_punches": [
+            "08:09:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "2",
+        "date": "2025-05-21",
+        "clock_in": "09:31:47",
+        "clock_out": "17:09:59",
+        "final_clock": "17:09:59",
+        "raw_punches": [
+            "09:31:47",
+            "09:31:59",
+            "17:09:59"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:31:47",
+                "out": "09:31:59"
+            }
+        ]
+    },
+    {
+        "user_id": "42",
+        "date": "2025-05-21",
+        "clock_in": "09:36:21",
+        "clock_out": "09:36:21",
+        "final_clock": "09:36:21",
+        "raw_punches": [
+            "09:36:21"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-21",
+        "clock_in": "10:23:21",
+        "clock_out": "15:29:19",
+        "final_clock": "15:29:19",
+        "raw_punches": [
+            "10:23:21",
+            "15:29:19"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:23:21",
+                "out": "15:29:19"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-21",
+        "clock_in": "15:07:57",
+        "clock_out": "15:16:39",
+        "final_clock": "15:16:39",
+        "raw_punches": [
+            "15:07:57",
+            "15:14:13",
+            "15:16:39"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "15:07:57",
+                "out": "15:14:13"
+            }
+        ]
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-21",
+        "clock_in": "15:08:20",
+        "clock_out": "15:16:48",
+        "final_clock": "15:16:48",
+        "raw_punches": [
+            "15:08:20",
+            "15:16:48"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "15:08:20",
+                "out": "15:16:48"
+            }
+        ]
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-21",
+        "clock_in": "17:13:52",
+        "clock_out": "17:13:52",
+        "final_clock": "17:13:52",
+        "raw_punches": [
+            "17:13:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-22",
+        "clock_in": "11:35:25",
+        "clock_out": "11:35:25",
+        "final_clock": "11:35:25",
+        "raw_punches": [
+            "11:35:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-22",
+        "clock_in": "13:03:14",
+        "clock_out": "13:03:14",
+        "final_clock": "13:03:14",
+        "raw_punches": [
+            "13:03:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-22",
+        "clock_in": "13:03:22",
+        "clock_out": "13:03:22",
+        "final_clock": "13:03:22",
+        "raw_punches": [
+            "13:03:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-22",
+        "clock_in": "13:45:42",
+        "clock_out": "13:45:42",
+        "final_clock": "13:45:42",
+        "raw_punches": [
+            "13:45:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-22",
+        "clock_in": "15:21:48",
+        "clock_out": "15:21:48",
+        "final_clock": "15:21:48",
+        "raw_punches": [
+            "15:21:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-23",
+        "clock_in": "07:43:33",
+        "clock_out": "17:24:12",
+        "final_clock": "17:24:12",
+        "raw_punches": [
+            "07:43:33",
+            "17:24:12"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:43:33",
+                "out": "17:24:12"
+            }
+        ]
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-23",
+        "clock_in": "07:44:13",
+        "clock_out": "17:02:53",
+        "final_clock": "17:02:53",
+        "raw_punches": [
+            "07:44:13",
+            "17:02:53"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:44:13",
+                "out": "17:02:53"
+            }
+        ]
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-23",
+        "clock_in": "07:44:25",
+        "clock_out": "10:37:58",
+        "final_clock": "10:37:58",
+        "raw_punches": [
+            "07:44:25",
+            "10:37:58"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:44:25",
+                "out": "10:37:58"
+            }
+        ]
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-23",
+        "clock_in": "07:45:29",
+        "clock_out": "17:30:01",
+        "final_clock": "17:30:01",
+        "raw_punches": [
+            "07:45:29",
+            "17:30:01"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:45:29",
+                "out": "17:30:01"
+            }
+        ]
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-23",
+        "clock_in": "07:45:34",
+        "clock_out": "07:45:34",
+        "final_clock": "07:45:34",
+        "raw_punches": [
+            "07:45:34"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-23",
+        "clock_in": "07:46:23",
+        "clock_out": "07:46:23",
+        "final_clock": "07:46:23",
+        "raw_punches": [
+            "07:46:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-05-23",
+        "clock_in": "07:46:28",
+        "clock_out": "17:37:23",
+        "final_clock": "17:37:23",
+        "raw_punches": [
+            "07:46:28",
+            "17:37:23"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:46:28",
+                "out": "17:37:23"
+            }
+        ]
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-23",
+        "clock_in": "07:46:37",
+        "clock_out": "07:46:37",
+        "final_clock": "07:46:37",
+        "raw_punches": [
+            "07:46:37"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-23",
+        "clock_in": "07:46:44",
+        "clock_out": "17:23:10",
+        "final_clock": "17:23:10",
+        "raw_punches": [
+            "07:46:44",
+            "17:23:10"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:46:44",
+                "out": "17:23:10"
+            }
+        ]
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-23",
+        "clock_in": "07:47:03",
+        "clock_out": "07:47:03",
+        "final_clock": "07:47:03",
+        "raw_punches": [
+            "07:47:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-23",
+        "clock_in": "07:48:13",
+        "clock_out": "07:48:13",
+        "final_clock": "07:48:13",
+        "raw_punches": [
+            "07:48:13"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-23",
+        "clock_in": "07:49:08",
+        "clock_out": "17:48:23",
+        "final_clock": "17:48:23",
+        "raw_punches": [
+            "07:49:08",
+            "17:48:23"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:08",
+                "out": "17:48:23"
+            }
+        ]
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-23",
+        "clock_in": "07:49:11",
+        "clock_out": "07:49:11",
+        "final_clock": "07:49:11",
+        "raw_punches": [
+            "07:49:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-23",
+        "clock_in": "07:49:14",
+        "clock_out": "17:12:16",
+        "final_clock": "17:12:16",
+        "raw_punches": [
+            "07:49:14",
+            "17:12:16"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:14",
+                "out": "17:12:16"
+            }
+        ]
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-23",
+        "clock_in": "07:49:35",
+        "clock_out": "17:12:04",
+        "final_clock": "17:12:04",
+        "raw_punches": [
+            "07:49:35",
+            "17:12:04"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:35",
+                "out": "17:12:04"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-23",
+        "clock_in": "07:50:30",
+        "clock_out": "17:16:02",
+        "final_clock": "17:16:02",
+        "raw_punches": [
+            "07:50:30",
+            "17:16:02"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:50:30",
+                "out": "17:16:02"
+            }
+        ]
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-23",
+        "clock_in": "07:51:08",
+        "clock_out": "07:51:08",
+        "final_clock": "07:51:08",
+        "raw_punches": [
+            "07:51:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-23",
+        "clock_in": "07:51:14",
+        "clock_out": "07:51:14",
+        "final_clock": "07:51:14",
+        "raw_punches": [
+            "07:51:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-23",
+        "clock_in": "07:53:54",
+        "clock_out": "07:53:54",
+        "final_clock": "07:53:54",
+        "raw_punches": [
+            "07:53:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-23",
+        "clock_in": "09:07:16",
+        "clock_out": "17:06:00",
+        "final_clock": "17:06:00",
+        "raw_punches": [
+            "09:07:16",
+            "17:06:00"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:07:16",
+                "out": "17:06:00"
+            }
+        ]
+    },
+    {
+        "user_id": "34",
+        "date": "2025-05-23",
+        "clock_in": "17:06:44",
+        "clock_out": "17:06:44",
+        "final_clock": "17:06:44",
+        "raw_punches": [
+            "17:06:44"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-23",
+        "clock_in": "17:07:06",
+        "clock_out": "17:07:06",
+        "final_clock": "17:07:06",
+        "raw_punches": [
+            "17:07:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "6",
+        "date": "2025-05-23",
+        "clock_in": "17:07:10",
+        "clock_out": "17:07:10",
+        "final_clock": "17:07:10",
+        "raw_punches": [
+            "17:07:10"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-23",
+        "clock_in": "17:07:25",
+        "clock_out": "17:07:25",
+        "final_clock": "17:07:25",
+        "raw_punches": [
+            "17:07:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-23",
+        "clock_in": "17:18:48",
+        "clock_out": "17:18:54",
+        "final_clock": "17:18:54",
+        "raw_punches": [
+            "17:18:48",
+            "17:18:54"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "17:18:48",
+                "out": "17:18:54"
+            }
+        ]
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-24",
+        "clock_in": "08:10:27",
+        "clock_out": "08:10:27",
+        "final_clock": "08:10:27",
+        "raw_punches": [
+            "08:10:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-24",
+        "clock_in": "08:10:36",
+        "clock_out": "08:10:36",
+        "final_clock": "08:10:36",
+        "raw_punches": [
+            "08:10:36"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-24",
+        "clock_in": "08:10:44",
+        "clock_out": "08:10:44",
+        "final_clock": "08:10:44",
+        "raw_punches": [
+            "08:10:44"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-24",
+        "clock_in": "08:10:52",
+        "clock_out": "08:10:52",
+        "final_clock": "08:10:52",
+        "raw_punches": [
+            "08:10:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-05-24",
+        "clock_in": "08:12:42",
+        "clock_out": "08:12:42",
+        "final_clock": "08:12:42",
+        "raw_punches": [
+            "08:12:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-24",
+        "clock_in": "08:12:55",
+        "clock_out": "08:12:55",
+        "final_clock": "08:12:55",
+        "raw_punches": [
+            "08:12:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-24",
+        "clock_in": "08:13:35",
+        "clock_out": "08:13:35",
+        "final_clock": "08:13:35",
+        "raw_punches": [
+            "08:13:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-24",
+        "clock_in": "08:14:19",
+        "clock_out": "14:03:37",
+        "final_clock": "14:03:37",
+        "raw_punches": [
+            "08:14:19",
+            "14:03:37"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:14:19",
+                "out": "14:03:37"
+            }
+        ]
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-24",
+        "clock_in": "08:17:36",
+        "clock_out": "08:17:36",
+        "final_clock": "08:17:36",
+        "raw_punches": [
+            "08:17:36"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "10",
+        "date": "2025-05-24",
+        "clock_in": "08:18:38",
+        "clock_out": "08:18:38",
+        "final_clock": "08:18:38",
+        "raw_punches": [
+            "08:18:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-05-24",
+        "clock_in": "08:19:29",
+        "clock_out": "14:47:04",
+        "final_clock": "14:47:04",
+        "raw_punches": [
+            "08:19:29",
+            "14:47:04"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:19:29",
+                "out": "14:47:04"
+            }
+        ]
+    },
+    {
+        "user_id": "15",
+        "date": "2025-05-24",
+        "clock_in": "08:20:18",
+        "clock_out": "08:20:18",
+        "final_clock": "08:20:18",
+        "raw_punches": [
+            "08:20:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-24",
+        "clock_in": "08:20:54",
+        "clock_out": "08:20:54",
+        "final_clock": "08:20:54",
+        "raw_punches": [
+            "08:20:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-05-24",
+        "clock_in": "08:22:33",
+        "clock_out": "14:46:05",
+        "final_clock": "14:46:05",
+        "raw_punches": [
+            "08:22:33",
+            "14:46:05"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:22:33",
+                "out": "14:46:05"
+            }
+        ]
+    },
+    {
+        "user_id": "8",
+        "date": "2025-05-24",
+        "clock_in": "08:22:38",
+        "clock_out": "14:46:12",
+        "final_clock": "14:46:12",
+        "raw_punches": [
+            "08:22:38",
+            "14:46:12"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:22:38",
+                "out": "14:46:12"
+            }
+        ]
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-24",
+        "clock_in": "08:23:11",
+        "clock_out": "14:12:58",
+        "final_clock": "14:12:58",
+        "raw_punches": [
+            "08:23:11",
+            "14:12:58"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:23:11",
+                "out": "14:12:58"
+            }
+        ]
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-24",
+        "clock_in": "08:24:04",
+        "clock_out": "08:24:04",
+        "final_clock": "08:24:04",
+        "raw_punches": [
+            "08:24:04"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-24",
+        "clock_in": "08:24:39",
+        "clock_out": "15:09:16",
+        "final_clock": "15:09:16",
+        "raw_punches": [
+            "08:24:39",
+            "08:24:41",
+            "15:09:16"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:24:39",
+                "out": "08:24:41"
+            }
+        ]
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-24",
+        "clock_in": "08:25:49",
+        "clock_out": "08:25:49",
+        "final_clock": "08:25:49",
+        "raw_punches": [
+            "08:25:49"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-24",
+        "clock_in": "08:25:57",
+        "clock_out": "08:25:57",
+        "final_clock": "08:25:57",
+        "raw_punches": [
+            "08:25:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-24",
+        "clock_in": "08:28:12",
+        "clock_out": "08:28:12",
+        "final_clock": "08:28:12",
+        "raw_punches": [
+            "08:28:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-24",
+        "clock_in": "08:28:16",
+        "clock_out": "08:28:16",
+        "final_clock": "08:28:16",
+        "raw_punches": [
+            "08:28:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-24",
+        "clock_in": "08:28:20",
+        "clock_out": "08:28:20",
+        "final_clock": "08:28:20",
+        "raw_punches": [
+            "08:28:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-24",
+        "clock_in": "08:29:33",
+        "clock_out": "08:29:33",
+        "final_clock": "08:29:33",
+        "raw_punches": [
+            "08:29:33"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-24",
+        "clock_in": "08:32:16",
+        "clock_out": "08:32:16",
+        "final_clock": "08:32:16",
+        "raw_punches": [
+            "08:32:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-24",
+        "clock_in": "08:32:51",
+        "clock_out": "08:32:51",
+        "final_clock": "08:32:51",
+        "raw_punches": [
+            "08:32:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-24",
+        "clock_in": "08:54:57",
+        "clock_out": "08:54:57",
+        "final_clock": "08:54:57",
+        "raw_punches": [
+            "08:54:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "1",
+        "date": "2025-05-24",
+        "clock_in": "11:07:14",
+        "clock_out": "11:09:39",
+        "final_clock": "11:09:39",
+        "raw_punches": [
+            "11:07:14",
+            "11:09:39"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "11:07:14",
+                "out": "11:09:39"
+            }
+        ]
+    },
+    {
+        "user_id": "45",
+        "date": "2025-05-24",
+        "clock_in": "11:39:18",
+        "clock_out": "14:47:25",
+        "final_clock": "14:47:25",
+        "raw_punches": [
+            "11:39:18",
+            "14:47:25"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "11:39:18",
+                "out": "14:47:25"
+            }
+        ]
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-24",
+        "clock_in": "13:31:53",
+        "clock_out": "13:31:53",
+        "final_clock": "13:31:53",
+        "raw_punches": [
+            "13:31:53"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-24",
+        "clock_in": "14:37:12",
+        "clock_out": "14:37:12",
+        "final_clock": "14:37:12",
+        "raw_punches": [
+            "14:37:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-24",
+        "clock_in": "14:39:06",
+        "clock_out": "14:39:06",
+        "final_clock": "14:39:06",
+        "raw_punches": [
+            "14:39:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-25",
+        "clock_in": "10:48:55",
+        "clock_out": "10:48:55",
+        "final_clock": "10:48:55",
+        "raw_punches": [
+            "10:48:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-25",
+        "clock_in": "10:50:16",
+        "clock_out": "10:50:16",
+        "final_clock": "10:50:16",
+        "raw_punches": [
+            "10:50:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-25",
+        "clock_in": "10:50:46",
+        "clock_out": "16:26:33",
+        "final_clock": "16:26:33",
+        "raw_punches": [
+            "10:50:46",
+            "16:26:33"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:50:46",
+                "out": "16:26:33"
+            }
+        ]
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-25",
+        "clock_in": "10:57:37",
+        "clock_out": "15:20:07",
+        "final_clock": "15:20:07",
+        "raw_punches": [
+            "10:57:37",
+            "15:20:07"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:57:37",
+                "out": "15:20:07"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-25",
+        "clock_in": "10:59:30",
+        "clock_out": "10:59:30",
+        "final_clock": "10:59:30",
+        "raw_punches": [
+            "10:59:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-25",
+        "clock_in": "11:11:45",
+        "clock_out": "16:26:19",
+        "final_clock": "16:26:19",
+        "raw_punches": [
+            "11:11:45",
+            "16:26:19"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "11:11:45",
+                "out": "16:26:19"
+            }
+        ]
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-25",
+        "clock_in": "11:26:01",
+        "clock_out": "11:26:01",
+        "final_clock": "11:26:01",
+        "raw_punches": [
+            "11:26:01"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-25",
+        "clock_in": "11:41:15",
+        "clock_out": "16:06:23",
+        "final_clock": "16:06:23",
+        "raw_punches": [
+            "11:41:15",
+            "16:06:23"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "11:41:15",
+                "out": "16:06:23"
+            }
+        ]
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-25",
+        "clock_in": "11:58:23",
+        "clock_out": "11:58:23",
+        "final_clock": "11:58:23",
+        "raw_punches": [
+            "11:58:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-25",
+        "clock_in": "12:05:09",
+        "clock_out": "16:26:32",
+        "final_clock": "16:26:32",
+        "raw_punches": [
+            "12:05:09",
+            "16:26:25",
+            "16:26:30",
+            "16:26:32"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "12:05:09",
+                "out": "16:26:25"
+            },
+            {
+                "in": "16:26:30",
+                "out": "16:26:32"
+            }
+        ]
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-26",
+        "clock_in": "07:08:41",
+        "clock_out": "07:08:41",
+        "final_clock": "07:08:41",
+        "raw_punches": [
+            "07:08:41"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-26",
+        "clock_in": "07:09:40",
+        "clock_out": "07:09:42",
+        "final_clock": "07:09:42",
+        "raw_punches": [
+            "07:09:40",
+            "07:09:42"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:09:40",
+                "out": "07:09:42"
+            }
+        ]
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-26",
+        "clock_in": "07:13:11",
+        "clock_out": "07:13:11",
+        "final_clock": "07:13:11",
+        "raw_punches": [
+            "07:13:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-05-26",
+        "clock_in": "07:14:26",
+        "clock_out": "07:14:26",
+        "final_clock": "07:14:26",
+        "raw_punches": [
+            "07:14:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-26",
+        "clock_in": "07:17:17",
+        "clock_out": "07:17:17",
+        "final_clock": "07:17:17",
+        "raw_punches": [
+            "07:17:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-26",
+        "clock_in": "07:17:21",
+        "clock_out": "07:17:21",
+        "final_clock": "07:17:21",
+        "raw_punches": [
+            "07:17:21"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-26",
+        "clock_in": "07:17:30",
+        "clock_out": "07:17:30",
+        "final_clock": "07:17:30",
+        "raw_punches": [
+            "07:17:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-05-26",
+        "clock_in": "07:20:09",
+        "clock_out": "07:20:09",
+        "final_clock": "07:20:09",
+        "raw_punches": [
+            "07:20:09"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-26",
+        "clock_in": "07:22:46",
+        "clock_out": "07:22:46",
+        "final_clock": "07:22:46",
+        "raw_punches": [
+            "07:22:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-26",
+        "clock_in": "07:23:02",
+        "clock_out": "17:51:31",
+        "final_clock": "17:51:31",
+        "raw_punches": [
+            "07:23:02",
+            "07:23:03",
+            "17:51:15",
+            "17:51:31"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:23:02",
+                "out": "07:23:03"
+            },
+            {
+                "in": "17:51:15",
+                "out": "17:51:31"
+            }
+        ]
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-26",
+        "clock_in": "07:23:24",
+        "clock_out": "07:23:24",
+        "final_clock": "07:23:24",
+        "raw_punches": [
+            "07:23:24"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-26",
+        "clock_in": "07:23:34",
+        "clock_out": "07:23:34",
+        "final_clock": "07:23:34",
+        "raw_punches": [
+            "07:23:34"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-26",
+        "clock_in": "07:23:52",
+        "clock_out": "07:23:52",
+        "final_clock": "07:23:52",
+        "raw_punches": [
+            "07:23:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-26",
+        "clock_in": "07:24:23",
+        "clock_out": "07:24:24",
+        "final_clock": "07:24:24",
+        "raw_punches": [
+            "07:24:23",
+            "07:24:24"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:24:23",
+                "out": "07:24:24"
+            }
+        ]
+    },
+    {
+        "user_id": "45",
+        "date": "2025-05-26",
+        "clock_in": "07:24:30",
+        "clock_out": "07:24:30",
+        "final_clock": "07:24:30",
+        "raw_punches": [
+            "07:24:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-05-26",
+        "clock_in": "07:24:32",
+        "clock_out": "07:24:32",
+        "final_clock": "07:24:32",
+        "raw_punches": [
+            "07:24:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-26",
+        "clock_in": "07:24:54",
+        "clock_out": "07:24:54",
+        "final_clock": "07:24:54",
+        "raw_punches": [
+            "07:24:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-26",
+        "clock_in": "07:25:12",
+        "clock_out": "07:25:12",
+        "final_clock": "07:25:12",
+        "raw_punches": [
+            "07:25:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-26",
+        "clock_in": "07:26:07",
+        "clock_out": "07:26:07",
+        "final_clock": "07:26:07",
+        "raw_punches": [
+            "07:26:07"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-26",
+        "clock_in": "07:28:09",
+        "clock_out": "07:28:17",
+        "final_clock": "07:28:17",
+        "raw_punches": [
+            "07:28:09",
+            "07:28:17"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:28:09",
+                "out": "07:28:17"
+            }
+        ]
+    },
+    {
+        "user_id": "21",
+        "date": "2025-05-26",
+        "clock_in": "07:28:41",
+        "clock_out": "07:28:41",
+        "final_clock": "07:28:41",
+        "raw_punches": [
+            "07:28:41"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-26",
+        "clock_in": "07:28:46",
+        "clock_out": "07:28:46",
+        "final_clock": "07:28:46",
+        "raw_punches": [
+            "07:28:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-26",
+        "clock_in": "07:29:08",
+        "clock_out": "17:51:38",
+        "final_clock": "17:51:38",
+        "raw_punches": [
+            "07:29:08",
+            "17:51:38"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:29:08",
+                "out": "17:51:38"
+            }
+        ]
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-26",
+        "clock_in": "07:29:14",
+        "clock_out": "07:29:14",
+        "final_clock": "07:29:14",
+        "raw_punches": [
+            "07:29:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "10",
+        "date": "2025-05-26",
+        "clock_in": "07:29:17",
+        "clock_out": "07:29:17",
+        "final_clock": "07:29:17",
+        "raw_punches": [
+            "07:29:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-26",
+        "clock_in": "07:29:19",
+        "clock_out": "07:29:19",
+        "final_clock": "07:29:19",
+        "raw_punches": [
+            "07:29:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-26",
+        "clock_in": "07:29:35",
+        "clock_out": "07:29:35",
+        "final_clock": "07:29:35",
+        "raw_punches": [
+            "07:29:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-05-26",
+        "clock_in": "07:29:50",
+        "clock_out": "07:29:50",
+        "final_clock": "07:29:50",
+        "raw_punches": [
+            "07:29:50"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-05-26",
+        "clock_in": "07:31:38",
+        "clock_out": "07:31:38",
+        "final_clock": "07:31:38",
+        "raw_punches": [
+            "07:31:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "6",
+        "date": "2025-05-26",
+        "clock_in": "07:31:57",
+        "clock_out": "07:31:57",
+        "final_clock": "07:31:57",
+        "raw_punches": [
+            "07:31:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "8",
+        "date": "2025-05-26",
+        "clock_in": "07:32:30",
+        "clock_out": "07:32:30",
+        "final_clock": "07:32:30",
+        "raw_punches": [
+            "07:32:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-26",
+        "clock_in": "07:34:40",
+        "clock_out": "17:41:36",
+        "final_clock": "17:41:36",
+        "raw_punches": [
+            "07:34:40",
+            "17:41:36"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:34:40",
+                "out": "17:41:36"
+            }
+        ]
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-26",
+        "clock_in": "07:37:53",
+        "clock_out": "07:37:53",
+        "final_clock": "07:37:53",
+        "raw_punches": [
+            "07:37:53"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-05-26",
+        "clock_in": "07:43:45",
+        "clock_out": "17:13:46",
+        "final_clock": "17:13:46",
+        "raw_punches": [
+            "07:43:45",
+            "17:13:46"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:43:45",
+                "out": "17:13:46"
+            }
+        ]
+    },
+    {
+        "user_id": "9",
+        "date": "2025-05-26",
+        "clock_in": "07:43:49",
+        "clock_out": "17:15:21",
+        "final_clock": "17:15:21",
+        "raw_punches": [
+            "07:43:49",
+            "17:15:21"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:43:49",
+                "out": "17:15:21"
+            }
+        ]
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-26",
+        "clock_in": "07:57:05",
+        "clock_out": "07:57:07",
+        "final_clock": "07:57:07",
+        "raw_punches": [
+            "07:57:05",
+            "07:57:07"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:57:05",
+                "out": "07:57:07"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-26",
+        "clock_in": "07:57:26",
+        "clock_out": "07:57:28",
+        "final_clock": "07:57:28",
+        "raw_punches": [
+            "07:57:26",
+            "07:57:28"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:57:26",
+                "out": "07:57:28"
+            }
+        ]
+    },
+    {
+        "user_id": "2",
+        "date": "2025-05-26",
+        "clock_in": "09:46:54",
+        "clock_out": "09:46:54",
+        "final_clock": "09:46:54",
+        "raw_punches": [
+            "09:46:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "47",
+        "date": "2025-05-26",
+        "clock_in": "09:56:20",
+        "clock_out": "18:00:34",
+        "final_clock": "18:00:34",
+        "raw_punches": [
+            "09:56:20",
+            "12:51:25",
+            "18:00:34"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:56:20",
+                "out": "12:51:25"
+            }
+        ]
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-26",
+        "clock_in": "12:57:35",
+        "clock_out": "12:57:35",
+        "final_clock": "12:57:35",
+        "raw_punches": [
+            "12:57:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-05-26",
+        "clock_in": "18:08:02",
+        "clock_out": "18:08:02",
+        "final_clock": "18:08:02",
+        "raw_punches": [
+            "18:08:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-27",
+        "clock_in": "06:54:24",
+        "clock_out": "19:38:18",
+        "final_clock": "19:38:18",
+        "raw_punches": [
+            "06:54:24",
+            "19:38:18"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "06:54:24",
+                "out": "19:38:18"
+            }
+        ]
+    },
+    {
+        "user_id": "45",
+        "date": "2025-05-27",
+        "clock_in": "07:16:51",
+        "clock_out": "07:16:51",
+        "final_clock": "07:16:51",
+        "raw_punches": [
+            "07:16:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-27",
+        "clock_in": "07:20:46",
+        "clock_out": "17:09:59",
+        "final_clock": "17:09:59",
+        "raw_punches": [
+            "07:20:46",
+            "07:28:02",
+            "17:09:59"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:20:46",
+                "out": "07:28:02"
+            }
+        ]
+    },
+    {
+        "user_id": "34",
+        "date": "2025-05-27",
+        "clock_in": "07:23:59",
+        "clock_out": "07:23:59",
+        "final_clock": "07:23:59",
+        "raw_punches": [
+            "07:23:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-27",
+        "clock_in": "07:25:55",
+        "clock_out": "07:25:55",
+        "final_clock": "07:25:55",
+        "raw_punches": [
+            "07:25:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "2",
+        "date": "2025-05-27",
+        "clock_in": "07:27:44",
+        "clock_out": "07:27:44",
+        "final_clock": "07:27:44",
+        "raw_punches": [
+            "07:27:44"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-27",
+        "clock_in": "07:30:01",
+        "clock_out": "17:38:31",
+        "final_clock": "17:38:31",
+        "raw_punches": [
+            "07:30:01",
+            "17:38:01",
+            "17:38:06",
+            "17:38:31"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:30:01",
+                "out": "17:38:01"
+            },
+            {
+                "in": "17:38:06",
+                "out": "17:38:31"
+            }
+        ]
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-27",
+        "clock_in": "07:33:38",
+        "clock_out": "07:33:38",
+        "final_clock": "07:33:38",
+        "raw_punches": [
+            "07:33:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-27",
+        "clock_in": "07:34:52",
+        "clock_out": "07:34:52",
+        "final_clock": "07:34:52",
+        "raw_punches": [
+            "07:34:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-05-27",
+        "clock_in": "07:36:19",
+        "clock_out": "07:36:19",
+        "final_clock": "07:36:19",
+        "raw_punches": [
+            "07:36:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-05-27",
+        "clock_in": "07:36:25",
+        "clock_out": "07:36:25",
+        "final_clock": "07:36:25",
+        "raw_punches": [
+            "07:36:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-05-27",
+        "clock_in": "07:36:39",
+        "clock_out": "07:36:39",
+        "final_clock": "07:36:39",
+        "raw_punches": [
+            "07:36:39"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-27",
+        "clock_in": "07:38:42",
+        "clock_out": "07:38:42",
+        "final_clock": "07:38:42",
+        "raw_punches": [
+            "07:38:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-05-27",
+        "clock_in": "07:39:33",
+        "clock_out": "17:50:09",
+        "final_clock": "17:50:09",
+        "raw_punches": [
+            "07:39:33",
+            "17:50:09"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:39:33",
+                "out": "17:50:09"
+            }
+        ]
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-27",
+        "clock_in": "07:39:37",
+        "clock_out": "07:39:37",
+        "final_clock": "07:39:37",
+        "raw_punches": [
+            "07:39:37"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-27",
+        "clock_in": "07:40:50",
+        "clock_out": "18:59:55",
+        "final_clock": "18:59:55",
+        "raw_punches": [
+            "07:40:50",
+            "18:59:55"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:40:50",
+                "out": "18:59:55"
+            }
+        ]
+    },
+    {
+        "user_id": "21",
+        "date": "2025-05-27",
+        "clock_in": "07:44:32",
+        "clock_out": "17:55:47",
+        "final_clock": "17:55:47",
+        "raw_punches": [
+            "07:44:32",
+            "07:45:37",
+            "17:55:47"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:44:32",
+                "out": "07:45:37"
+            }
+        ]
+    },
+    {
+        "user_id": "35",
+        "date": "2025-05-27",
+        "clock_in": "07:45:13",
+        "clock_out": "07:45:13",
+        "final_clock": "07:45:13",
+        "raw_punches": [
+            "07:45:13"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-05-27",
+        "clock_in": "07:45:19",
+        "clock_out": "07:45:19",
+        "final_clock": "07:45:19",
+        "raw_punches": [
+            "07:45:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-27",
+        "clock_in": "07:45:44",
+        "clock_out": "17:10:02",
+        "final_clock": "17:10:02",
+        "raw_punches": [
+            "07:45:44",
+            "17:10:02"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:45:44",
+                "out": "17:10:02"
+            }
+        ]
+    },
+    {
+        "user_id": "10",
+        "date": "2025-05-27",
+        "clock_in": "07:47:13",
+        "clock_out": "07:47:13",
+        "final_clock": "07:47:13",
+        "raw_punches": [
+            "07:47:13"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-27",
+        "clock_in": "07:48:05",
+        "clock_out": "07:48:05",
+        "final_clock": "07:48:05",
+        "raw_punches": [
+            "07:48:05"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-27",
+        "clock_in": "07:48:30",
+        "clock_out": "07:48:30",
+        "final_clock": "07:48:30",
+        "raw_punches": [
+            "07:48:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-27",
+        "clock_in": "07:48:45",
+        "clock_out": "07:48:46",
+        "final_clock": "07:48:46",
+        "raw_punches": [
+            "07:48:45",
+            "07:48:46"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:48:45",
+                "out": "07:48:46"
+            }
+        ]
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-27",
+        "clock_in": "07:49:11",
+        "clock_out": "07:49:11",
+        "final_clock": "07:49:11",
+        "raw_punches": [
+            "07:49:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-27",
+        "clock_in": "07:49:16",
+        "clock_out": "07:49:16",
+        "final_clock": "07:49:16",
+        "raw_punches": [
+            "07:49:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-27",
+        "clock_in": "07:49:22",
+        "clock_out": "07:49:22",
+        "final_clock": "07:49:22",
+        "raw_punches": [
+            "07:49:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-27",
+        "clock_in": "07:49:26",
+        "clock_out": "17:53:01",
+        "final_clock": "17:53:01",
+        "raw_punches": [
+            "07:49:26",
+            "17:53:01"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:26",
+                "out": "17:53:01"
+            }
+        ]
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-27",
+        "clock_in": "07:49:28",
+        "clock_out": "17:37:55",
+        "final_clock": "17:37:55",
+        "raw_punches": [
+            "07:49:28",
+            "17:37:55"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:28",
+                "out": "17:37:55"
+            }
+        ]
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-27",
+        "clock_in": "07:50:29",
+        "clock_out": "17:51:55",
+        "final_clock": "17:51:55",
+        "raw_punches": [
+            "07:50:29",
+            "17:51:55"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:50:29",
+                "out": "17:51:55"
+            }
+        ]
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-27",
+        "clock_in": "07:51:26",
+        "clock_out": "07:51:26",
+        "final_clock": "07:51:26",
+        "raw_punches": [
+            "07:51:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-27",
+        "clock_in": "07:52:19",
+        "clock_out": "19:37:11",
+        "final_clock": "19:37:11",
+        "raw_punches": [
+            "07:52:19",
+            "17:53:37",
+            "17:53:51",
+            "19:37:11"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:52:19",
+                "out": "17:53:37"
+            },
+            {
+                "in": "17:53:51",
+                "out": "19:37:11"
+            }
+        ]
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-27",
+        "clock_in": "07:52:34",
+        "clock_out": "18:12:04",
+        "final_clock": "18:12:04",
+        "raw_punches": [
+            "07:52:34",
+            "07:52:36",
+            "18:12:04"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:52:34",
+                "out": "07:52:36"
+            }
+        ]
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-27",
+        "clock_in": "07:53:00",
+        "clock_out": "07:53:00",
+        "final_clock": "07:53:00",
+        "raw_punches": [
+            "07:53:00"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-05-27",
+        "clock_in": "07:53:37",
+        "clock_out": "07:53:37",
+        "final_clock": "07:53:37",
+        "raw_punches": [
+            "07:53:37"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "8",
+        "date": "2025-05-27",
+        "clock_in": "07:53:46",
+        "clock_out": "07:53:46",
+        "final_clock": "07:53:46",
+        "raw_punches": [
+            "07:53:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-27",
+        "clock_in": "07:53:51",
+        "clock_out": "17:02:42",
+        "final_clock": "17:02:42",
+        "raw_punches": [
+            "07:53:51",
+            "17:02:42"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:53:51",
+                "out": "17:02:42"
+            }
+        ]
+    },
+    {
+        "user_id": "6",
+        "date": "2025-05-27",
+        "clock_in": "07:55:16",
+        "clock_out": "07:55:16",
+        "final_clock": "07:55:16",
+        "raw_punches": [
+            "07:55:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-27",
+        "clock_in": "07:55:27",
+        "clock_out": "17:25:16",
+        "final_clock": "17:25:16",
+        "raw_punches": [
+            "07:55:27",
+            "17:25:16"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:55:27",
+                "out": "17:25:16"
+            }
+        ]
+    },
+    {
+        "user_id": "46",
+        "date": "2025-05-27",
+        "clock_in": "07:55:43",
+        "clock_out": "17:50:29",
+        "final_clock": "17:50:29",
+        "raw_punches": [
+            "07:55:43",
+            "17:50:29"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:55:43",
+                "out": "17:50:29"
+            }
+        ]
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-27",
+        "clock_in": "07:57:02",
+        "clock_out": "19:38:00",
+        "final_clock": "19:38:00",
+        "raw_punches": [
+            "07:57:02",
+            "19:38:00"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:57:02",
+                "out": "19:38:00"
+            }
+        ]
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-27",
+        "clock_in": "08:00:12",
+        "clock_out": "17:38:37",
+        "final_clock": "17:38:37",
+        "raw_punches": [
+            "08:00:12",
+            "17:38:26",
+            "17:38:33",
+            "17:38:37"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:00:12",
+                "out": "17:38:26"
+            },
+            {
+                "in": "17:38:33",
+                "out": "17:38:37"
+            }
+        ]
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-27",
+        "clock_in": "08:07:16",
+        "clock_out": "08:07:16",
+        "final_clock": "08:07:16",
+        "raw_punches": [
+            "08:07:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-27",
+        "clock_in": "08:16:22",
+        "clock_out": "08:16:22",
+        "final_clock": "08:16:22",
+        "raw_punches": [
+            "08:16:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-28",
+        "clock_in": "06:59:52",
+        "clock_out": "18:49:52",
+        "final_clock": "18:49:52",
+        "raw_punches": [
+            "06:59:52",
+            "18:49:52"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "06:59:52",
+                "out": "18:49:52"
+            }
+        ]
+    },
+    {
+        "user_id": "45",
+        "date": "2025-05-28",
+        "clock_in": "07:13:23",
+        "clock_out": "18:44:18",
+        "final_clock": "18:44:18",
+        "raw_punches": [
+            "07:13:23",
+            "18:44:18"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:13:23",
+                "out": "18:44:18"
+            }
+        ]
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-28",
+        "clock_in": "07:18:08",
+        "clock_out": "07:18:08",
+        "final_clock": "07:18:08",
+        "raw_punches": [
+            "07:18:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-28",
+        "clock_in": "07:21:37",
+        "clock_out": "07:21:37",
+        "final_clock": "07:21:37",
+        "raw_punches": [
+            "07:21:37"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-05-28",
+        "clock_in": "07:26:38",
+        "clock_out": "07:26:38",
+        "final_clock": "07:26:38",
+        "raw_punches": [
+            "07:26:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-05-28",
+        "clock_in": "07:28:51",
+        "clock_out": "07:28:51",
+        "final_clock": "07:28:51",
+        "raw_punches": [
+            "07:28:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-05-28",
+        "clock_in": "07:29:28",
+        "clock_out": "07:29:28",
+        "final_clock": "07:29:28",
+        "raw_punches": [
+            "07:29:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-28",
+        "clock_in": "07:32:59",
+        "clock_out": "07:32:59",
+        "final_clock": "07:32:59",
+        "raw_punches": [
+            "07:32:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-05-28",
+        "clock_in": "07:34:17",
+        "clock_out": "17:32:57",
+        "final_clock": "17:32:57",
+        "raw_punches": [
+            "07:34:17",
+            "17:32:57"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:34:17",
+                "out": "17:32:57"
+            }
+        ]
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-28",
+        "clock_in": "07:36:22",
+        "clock_out": "17:27:52",
+        "final_clock": "17:27:52",
+        "raw_punches": [
+            "07:36:22",
+            "17:27:52"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:36:22",
+                "out": "17:27:52"
+            }
+        ]
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-28",
+        "clock_in": "07:37:03",
+        "clock_out": "07:37:03",
+        "final_clock": "07:37:03",
+        "raw_punches": [
+            "07:37:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-28",
+        "clock_in": "07:38:48",
+        "clock_out": "07:38:48",
+        "final_clock": "07:38:48",
+        "raw_punches": [
+            "07:38:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-28",
+        "clock_in": "07:39:17",
+        "clock_out": "07:39:17",
+        "final_clock": "07:39:17",
+        "raw_punches": [
+            "07:39:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-05-28",
+        "clock_in": "07:40:42",
+        "clock_out": "07:40:42",
+        "final_clock": "07:40:42",
+        "raw_punches": [
+            "07:40:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-05-28",
+        "clock_in": "07:41:14",
+        "clock_out": "07:41:14",
+        "final_clock": "07:41:14",
+        "raw_punches": [
+            "07:41:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-28",
+        "clock_in": "07:41:45",
+        "clock_out": "07:41:45",
+        "final_clock": "07:41:45",
+        "raw_punches": [
+            "07:41:45"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-05-28",
+        "clock_in": "07:42:25",
+        "clock_out": "07:42:25",
+        "final_clock": "07:42:25",
+        "raw_punches": [
+            "07:42:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-28",
+        "clock_in": "07:43:30",
+        "clock_out": "07:43:30",
+        "final_clock": "07:43:30",
+        "raw_punches": [
+            "07:43:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-28",
+        "clock_in": "07:43:33",
+        "clock_out": "17:28:06",
+        "final_clock": "17:28:06",
+        "raw_punches": [
+            "07:43:33",
+            "17:28:06"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:43:33",
+                "out": "17:28:06"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-28",
+        "clock_in": "07:44:21",
+        "clock_out": "07:44:22",
+        "final_clock": "07:44:22",
+        "raw_punches": [
+            "07:44:21",
+            "07:44:22"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:44:21",
+                "out": "07:44:22"
+            }
+        ]
+    },
+    {
+        "user_id": "8",
+        "date": "2025-05-28",
+        "clock_in": "07:46:26",
+        "clock_out": "07:46:26",
+        "final_clock": "07:46:26",
+        "raw_punches": [
+            "07:46:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-05-28",
+        "clock_in": "07:46:30",
+        "clock_out": "07:46:30",
+        "final_clock": "07:46:30",
+        "raw_punches": [
+            "07:46:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-05-28",
+        "clock_in": "07:46:52",
+        "clock_out": "07:46:52",
+        "final_clock": "07:46:52",
+        "raw_punches": [
+            "07:46:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-28",
+        "clock_in": "07:47:06",
+        "clock_out": "07:47:06",
+        "final_clock": "07:47:06",
+        "raw_punches": [
+            "07:47:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-28",
+        "clock_in": "07:48:04",
+        "clock_out": "18:49:57",
+        "final_clock": "18:49:57",
+        "raw_punches": [
+            "07:48:04",
+            "18:49:57"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:48:04",
+                "out": "18:49:57"
+            }
+        ]
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-28",
+        "clock_in": "07:48:46",
+        "clock_out": "07:48:46",
+        "final_clock": "07:48:46",
+        "raw_punches": [
+            "07:48:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-28",
+        "clock_in": "07:49:01",
+        "clock_out": "07:49:01",
+        "final_clock": "07:49:01",
+        "raw_punches": [
+            "07:49:01"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-28",
+        "clock_in": "07:49:03",
+        "clock_out": "17:31:54",
+        "final_clock": "17:31:54",
+        "raw_punches": [
+            "07:49:03",
+            "17:31:54"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:03",
+                "out": "17:31:54"
+            }
+        ]
+    },
+    {
+        "user_id": "6",
+        "date": "2025-05-28",
+        "clock_in": "07:49:07",
+        "clock_out": "07:49:08",
+        "final_clock": "07:49:08",
+        "raw_punches": [
+            "07:49:07",
+            "07:49:08"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:07",
+                "out": "07:49:08"
+            }
+        ]
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-28",
+        "clock_in": "07:49:44",
+        "clock_out": "07:49:44",
+        "final_clock": "07:49:44",
+        "raw_punches": [
+            "07:49:44"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-28",
+        "clock_in": "07:49:53",
+        "clock_out": "07:49:53",
+        "final_clock": "07:49:53",
+        "raw_punches": [
+            "07:49:53"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-28",
+        "clock_in": "07:50:21",
+        "clock_out": "07:50:21",
+        "final_clock": "07:50:21",
+        "raw_punches": [
+            "07:50:21"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-28",
+        "clock_in": "07:50:26",
+        "clock_out": "07:50:26",
+        "final_clock": "07:50:26",
+        "raw_punches": [
+            "07:50:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-05-28",
+        "clock_in": "07:51:39",
+        "clock_out": "07:51:39",
+        "final_clock": "07:51:39",
+        "raw_punches": [
+            "07:51:39"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-28",
+        "clock_in": "07:51:58",
+        "clock_out": "07:51:58",
+        "final_clock": "07:51:58",
+        "raw_punches": [
+            "07:51:58"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-28",
+        "clock_in": "07:52:25",
+        "clock_out": "07:52:25",
+        "final_clock": "07:52:25",
+        "raw_punches": [
+            "07:52:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-28",
+        "clock_in": "07:54:14",
+        "clock_out": "07:54:14",
+        "final_clock": "07:54:14",
+        "raw_punches": [
+            "07:54:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-28",
+        "clock_in": "07:55:27",
+        "clock_out": "17:27:58",
+        "final_clock": "17:27:58",
+        "raw_punches": [
+            "07:55:27",
+            "17:27:58"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:55:27",
+                "out": "17:27:58"
+            }
+        ]
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-28",
+        "clock_in": "07:55:59",
+        "clock_out": "07:55:59",
+        "final_clock": "07:55:59",
+        "raw_punches": [
+            "07:55:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-28",
+        "clock_in": "07:56:25",
+        "clock_out": "07:56:25",
+        "final_clock": "07:56:25",
+        "raw_punches": [
+            "07:56:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-28",
+        "clock_in": "07:56:27",
+        "clock_out": "17:33:19",
+        "final_clock": "17:33:19",
+        "raw_punches": [
+            "07:56:27",
+            "17:33:19"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:56:27",
+                "out": "17:33:19"
+            }
+        ]
+    },
+    {
+        "user_id": "10",
+        "date": "2025-05-28",
+        "clock_in": "07:58:13",
+        "clock_out": "07:58:13",
+        "final_clock": "07:58:13",
+        "raw_punches": [
+            "07:58:13"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-28",
+        "clock_in": "07:59:14",
+        "clock_out": "07:59:14",
+        "final_clock": "07:59:14",
+        "raw_punches": [
+            "07:59:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "47",
+        "date": "2025-05-28",
+        "clock_in": "08:16:26",
+        "clock_out": "08:16:26",
+        "final_clock": "08:16:26",
+        "raw_punches": [
+            "08:16:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-29",
+        "clock_in": "07:16:47",
+        "clock_out": "07:16:48",
+        "final_clock": "07:16:48",
+        "raw_punches": [
+            "07:16:47",
+            "07:16:48"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:16:47",
+                "out": "07:16:48"
+            }
+        ]
+    },
+    {
+        "user_id": "35",
+        "date": "2025-05-29",
+        "clock_in": "07:16:53",
+        "clock_out": "07:16:53",
+        "final_clock": "07:16:53",
+        "raw_punches": [
+            "07:16:53"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-05-29",
+        "clock_in": "07:19:15",
+        "clock_out": "07:19:15",
+        "final_clock": "07:19:15",
+        "raw_punches": [
+            "07:19:15"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-29",
+        "clock_in": "07:28:15",
+        "clock_out": "07:28:15",
+        "final_clock": "07:28:15",
+        "raw_punches": [
+            "07:28:15"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-29",
+        "clock_in": "07:28:34",
+        "clock_out": "07:28:36",
+        "final_clock": "07:28:36",
+        "raw_punches": [
+            "07:28:34",
+            "07:28:36"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:28:34",
+                "out": "07:28:36"
+            }
+        ]
+    },
+    {
+        "user_id": "32",
+        "date": "2025-05-29",
+        "clock_in": "07:30:58",
+        "clock_out": "07:30:58",
+        "final_clock": "07:30:58",
+        "raw_punches": [
+            "07:30:58"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-29",
+        "clock_in": "07:34:36",
+        "clock_out": "07:34:36",
+        "final_clock": "07:34:36",
+        "raw_punches": [
+            "07:34:36"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-29",
+        "clock_in": "07:34:40",
+        "clock_out": "07:34:40",
+        "final_clock": "07:34:40",
+        "raw_punches": [
+            "07:34:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-29",
+        "clock_in": "07:34:51",
+        "clock_out": "07:34:51",
+        "final_clock": "07:34:51",
+        "raw_punches": [
+            "07:34:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-29",
+        "clock_in": "07:38:35",
+        "clock_out": "07:38:35",
+        "final_clock": "07:38:35",
+        "raw_punches": [
+            "07:38:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-29",
+        "clock_in": "07:38:40",
+        "clock_out": "07:38:40",
+        "final_clock": "07:38:40",
+        "raw_punches": [
+            "07:38:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-05-29",
+        "clock_in": "07:38:44",
+        "clock_out": "17:52:47",
+        "final_clock": "17:52:47",
+        "raw_punches": [
+            "07:38:44",
+            "17:52:47"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:38:44",
+                "out": "17:52:47"
+            }
+        ]
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-29",
+        "clock_in": "07:41:05",
+        "clock_out": "07:41:05",
+        "final_clock": "07:41:05",
+        "raw_punches": [
+            "07:41:05"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-29",
+        "clock_in": "07:43:45",
+        "clock_out": "07:43:45",
+        "final_clock": "07:43:45",
+        "raw_punches": [
+            "07:43:45"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-29",
+        "clock_in": "07:44:41",
+        "clock_out": "07:44:43",
+        "final_clock": "07:44:43",
+        "raw_punches": [
+            "07:44:41",
+            "07:44:43"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:44:41",
+                "out": "07:44:43"
+            }
+        ]
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-29",
+        "clock_in": "07:45:34",
+        "clock_out": "07:45:34",
+        "final_clock": "07:45:34",
+        "raw_punches": [
+            "07:45:34"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-29",
+        "clock_in": "07:45:52",
+        "clock_out": "17:21:44",
+        "final_clock": "17:21:44",
+        "raw_punches": [
+            "07:45:52",
+            "17:21:44"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:45:52",
+                "out": "17:21:44"
+            }
+        ]
+    },
+    {
+        "user_id": "28",
+        "date": "2025-05-29",
+        "clock_in": "07:46:02",
+        "clock_out": "07:46:02",
+        "final_clock": "07:46:02",
+        "raw_punches": [
+            "07:46:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-05-29",
+        "clock_in": "07:46:16",
+        "clock_out": "07:46:16",
+        "final_clock": "07:46:16",
+        "raw_punches": [
+            "07:46:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-29",
+        "clock_in": "07:48:18",
+        "clock_out": "07:48:18",
+        "final_clock": "07:48:18",
+        "raw_punches": [
+            "07:48:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-29",
+        "clock_in": "07:48:22",
+        "clock_out": "07:48:22",
+        "final_clock": "07:48:22",
+        "raw_punches": [
+            "07:48:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-29",
+        "clock_in": "07:49:14",
+        "clock_out": "07:49:14",
+        "final_clock": "07:49:14",
+        "raw_punches": [
+            "07:49:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-29",
+        "clock_in": "07:49:29",
+        "clock_out": "07:49:29",
+        "final_clock": "07:49:29",
+        "raw_punches": [
+            "07:49:29"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "6",
+        "date": "2025-05-29",
+        "clock_in": "07:51:05",
+        "clock_out": "17:39:55",
+        "final_clock": "17:39:55",
+        "raw_punches": [
+            "07:51:05",
+            "07:51:07",
+            "17:39:55"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:51:05",
+                "out": "07:51:07"
+            }
+        ]
+    },
+    {
+        "user_id": "15",
+        "date": "2025-05-29",
+        "clock_in": "07:53:16",
+        "clock_out": "07:53:16",
+        "final_clock": "07:53:16",
+        "raw_punches": [
+            "07:53:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-29",
+        "clock_in": "07:54:25",
+        "clock_out": "17:04:39",
+        "final_clock": "17:04:39",
+        "raw_punches": [
+            "07:54:25",
+            "17:04:39"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:54:25",
+                "out": "17:04:39"
+            }
+        ]
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-29",
+        "clock_in": "07:54:56",
+        "clock_out": "07:54:56",
+        "final_clock": "07:54:56",
+        "raw_punches": [
+            "07:54:56"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-29",
+        "clock_in": "07:54:59",
+        "clock_out": "07:54:59",
+        "final_clock": "07:54:59",
+        "raw_punches": [
+            "07:54:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-29",
+        "clock_in": "07:55:59",
+        "clock_out": "07:55:59",
+        "final_clock": "07:55:59",
+        "raw_punches": [
+            "07:55:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-05-29",
+        "clock_in": "07:56:04",
+        "clock_out": "18:01:06",
+        "final_clock": "18:01:06",
+        "raw_punches": [
+            "07:56:04",
+            "18:01:06"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:56:04",
+                "out": "18:01:06"
+            }
+        ]
+    },
+    {
+        "user_id": "37",
+        "date": "2025-05-29",
+        "clock_in": "07:56:45",
+        "clock_out": "07:56:45",
+        "final_clock": "07:56:45",
+        "raw_punches": [
+            "07:56:45"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "10",
+        "date": "2025-05-29",
+        "clock_in": "07:57:05",
+        "clock_out": "07:57:05",
+        "final_clock": "07:57:05",
+        "raw_punches": [
+            "07:57:05"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-29",
+        "clock_in": "07:57:11",
+        "clock_out": "07:57:11",
+        "final_clock": "07:57:11",
+        "raw_punches": [
+            "07:57:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-29",
+        "clock_in": "07:58:45",
+        "clock_out": "07:58:45",
+        "final_clock": "07:58:45",
+        "raw_punches": [
+            "07:58:45"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-29",
+        "clock_in": "07:58:56",
+        "clock_out": "17:09:16",
+        "final_clock": "17:09:16",
+        "raw_punches": [
+            "07:58:56",
+            "17:09:16"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:58:56",
+                "out": "17:09:16"
+            }
+        ]
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-29",
+        "clock_in": "08:03:04",
+        "clock_out": "08:03:06",
+        "final_clock": "08:03:06",
+        "raw_punches": [
+            "08:03:04",
+            "08:03:06"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:03:04",
+                "out": "08:03:06"
+            }
+        ]
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-29",
+        "clock_in": "10:34:31",
+        "clock_out": "10:34:33",
+        "final_clock": "10:34:33",
+        "raw_punches": [
+            "10:34:31",
+            "10:34:33"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:34:31",
+                "out": "10:34:33"
+            }
+        ]
+    },
+    {
+        "user_id": "2",
+        "date": "2025-05-29",
+        "clock_in": "10:41:03",
+        "clock_out": "17:20:02",
+        "final_clock": "17:20:02",
+        "raw_punches": [
+            "10:41:03",
+            "10:41:11",
+            "17:20:02"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:41:03",
+                "out": "10:41:11"
+            }
+        ]
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-29",
+        "clock_in": "14:43:33",
+        "clock_out": "17:20:08",
+        "final_clock": "17:20:08",
+        "raw_punches": [
+            "14:43:33",
+            "15:43:36",
+            "17:20:08"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "14:43:33",
+                "out": "15:43:36"
+            }
+        ]
+    },
+    {
+        "user_id": "45",
+        "date": "2025-05-30",
+        "clock_in": "07:22:38",
+        "clock_out": "17:24:53",
+        "final_clock": "17:24:53",
+        "raw_punches": [
+            "07:22:38",
+            "17:24:53"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:22:38",
+                "out": "17:24:53"
+            }
+        ]
+    },
+    {
+        "user_id": "34",
+        "date": "2025-05-30",
+        "clock_in": "07:26:20",
+        "clock_out": "07:26:20",
+        "final_clock": "07:26:20",
+        "raw_punches": [
+            "07:26:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-30",
+        "clock_in": "07:27:08",
+        "clock_out": "07:27:08",
+        "final_clock": "07:27:08",
+        "raw_punches": [
+            "07:27:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-05-30",
+        "clock_in": "07:29:00",
+        "clock_out": "17:45:44",
+        "final_clock": "17:45:44",
+        "raw_punches": [
+            "07:29:00",
+            "17:45:40",
+            "17:45:44"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:29:00",
+                "out": "17:45:40"
+            }
+        ]
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-30",
+        "clock_in": "07:32:38",
+        "clock_out": "07:32:38",
+        "final_clock": "07:32:38",
+        "raw_punches": [
+            "07:32:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-05-30",
+        "clock_in": "07:32:42",
+        "clock_out": "07:32:42",
+        "final_clock": "07:32:42",
+        "raw_punches": [
+            "07:32:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-30",
+        "clock_in": "07:32:53",
+        "clock_out": "17:45:26",
+        "final_clock": "17:45:26",
+        "raw_punches": [
+            "07:32:53",
+            "17:45:20",
+            "17:45:25",
+            "17:45:26"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:32:53",
+                "out": "17:45:20"
+            },
+            {
+                "in": "17:45:25",
+                "out": "17:45:26"
+            }
+        ]
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-30",
+        "clock_in": "07:32:56",
+        "clock_out": "17:14:44",
+        "final_clock": "17:14:44",
+        "raw_punches": [
+            "07:32:56",
+            "17:14:44"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:32:56",
+                "out": "17:14:44"
+            }
+        ]
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-30",
+        "clock_in": "07:34:50",
+        "clock_out": "07:34:50",
+        "final_clock": "07:34:50",
+        "raw_punches": [
+            "07:34:50"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-05-30",
+        "clock_in": "07:35:14",
+        "clock_out": "07:35:14",
+        "final_clock": "07:35:14",
+        "raw_punches": [
+            "07:35:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-30",
+        "clock_in": "07:35:47",
+        "clock_out": "07:35:47",
+        "final_clock": "07:35:47",
+        "raw_punches": [
+            "07:35:47"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-30",
+        "clock_in": "07:35:55",
+        "clock_out": "07:35:55",
+        "final_clock": "07:35:55",
+        "raw_punches": [
+            "07:35:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-30",
+        "clock_in": "07:37:14",
+        "clock_out": "19:09:13",
+        "final_clock": "19:09:13",
+        "raw_punches": [
+            "07:37:14",
+            "19:09:13"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:37:14",
+                "out": "19:09:13"
+            }
+        ]
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-30",
+        "clock_in": "07:38:18",
+        "clock_out": "07:38:18",
+        "final_clock": "07:38:18",
+        "raw_punches": [
+            "07:38:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-05-30",
+        "clock_in": "07:40:52",
+        "clock_out": "07:40:52",
+        "final_clock": "07:40:52",
+        "raw_punches": [
+            "07:40:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-05-30",
+        "clock_in": "07:44:11",
+        "clock_out": "07:44:11",
+        "final_clock": "07:44:11",
+        "raw_punches": [
+            "07:44:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-30",
+        "clock_in": "07:44:33",
+        "clock_out": "07:44:33",
+        "final_clock": "07:44:33",
+        "raw_punches": [
+            "07:44:33"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-30",
+        "clock_in": "07:44:36",
+        "clock_out": "17:45:10",
+        "final_clock": "17:45:10",
+        "raw_punches": [
+            "07:44:36",
+            "17:37:56",
+            "17:45:10"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:44:36",
+                "out": "17:37:56"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-30",
+        "clock_in": "07:45:43",
+        "clock_out": "07:45:43",
+        "final_clock": "07:45:43",
+        "raw_punches": [
+            "07:45:43"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-30",
+        "clock_in": "07:46:55",
+        "clock_out": "07:46:55",
+        "final_clock": "07:46:55",
+        "raw_punches": [
+            "07:46:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-30",
+        "clock_in": "07:48:35",
+        "clock_out": "17:45:13",
+        "final_clock": "17:45:13",
+        "raw_punches": [
+            "07:48:35",
+            "17:45:13"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:48:35",
+                "out": "17:45:13"
+            }
+        ]
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-30",
+        "clock_in": "07:49:18",
+        "clock_out": "19:08:51",
+        "final_clock": "19:08:51",
+        "raw_punches": [
+            "07:49:18",
+            "19:08:51"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:49:18",
+                "out": "19:08:51"
+            }
+        ]
+    },
+    {
+        "user_id": "6",
+        "date": "2025-05-30",
+        "clock_in": "07:49:24",
+        "clock_out": "07:49:24",
+        "final_clock": "07:49:24",
+        "raw_punches": [
+            "07:49:24"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-30",
+        "clock_in": "07:49:30",
+        "clock_out": "07:49:30",
+        "final_clock": "07:49:30",
+        "raw_punches": [
+            "07:49:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-30",
+        "clock_in": "07:54:03",
+        "clock_out": "17:24:47",
+        "final_clock": "17:24:47",
+        "raw_punches": [
+            "07:54:03",
+            "17:24:47"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:54:03",
+                "out": "17:24:47"
+            }
+        ]
+    },
+    {
+        "user_id": "46",
+        "date": "2025-05-30",
+        "clock_in": "07:54:14",
+        "clock_out": "07:54:14",
+        "final_clock": "07:54:14",
+        "raw_punches": [
+            "07:54:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-05-30",
+        "clock_in": "07:54:42",
+        "clock_out": "07:54:42",
+        "final_clock": "07:54:42",
+        "raw_punches": [
+            "07:54:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-05-30",
+        "clock_in": "07:55:20",
+        "clock_out": "07:55:20",
+        "final_clock": "07:55:20",
+        "raw_punches": [
+            "07:55:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-05-30",
+        "clock_in": "07:55:40",
+        "clock_out": "07:55:40",
+        "final_clock": "07:55:40",
+        "raw_punches": [
+            "07:55:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "8",
+        "date": "2025-05-30",
+        "clock_in": "07:56:08",
+        "clock_out": "07:56:08",
+        "final_clock": "07:56:08",
+        "raw_punches": [
+            "07:56:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-30",
+        "clock_in": "07:57:55",
+        "clock_out": "07:57:55",
+        "final_clock": "07:57:55",
+        "raw_punches": [
+            "07:57:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-30",
+        "clock_in": "07:57:57",
+        "clock_out": "17:14:41",
+        "final_clock": "17:14:41",
+        "raw_punches": [
+            "07:57:57",
+            "17:14:39",
+            "17:14:41"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:57:57",
+                "out": "17:14:39"
+            }
+        ]
+    },
+    {
+        "user_id": "10",
+        "date": "2025-05-30",
+        "clock_in": "08:00:05",
+        "clock_out": "08:00:05",
+        "final_clock": "08:00:05",
+        "raw_punches": [
+            "08:00:05"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-30",
+        "clock_in": "08:00:08",
+        "clock_out": "08:00:08",
+        "final_clock": "08:00:08",
+        "raw_punches": [
+            "08:00:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-30",
+        "clock_in": "08:00:20",
+        "clock_out": "08:00:22",
+        "final_clock": "08:00:22",
+        "raw_punches": [
+            "08:00:20",
+            "08:00:22"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:00:20",
+                "out": "08:00:22"
+            }
+        ]
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-30",
+        "clock_in": "08:00:32",
+        "clock_out": "08:00:32",
+        "final_clock": "08:00:32",
+        "raw_punches": [
+            "08:00:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-30",
+        "clock_in": "08:05:11",
+        "clock_out": "17:24:42",
+        "final_clock": "17:24:42",
+        "raw_punches": [
+            "08:05:11",
+            "17:24:42"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:05:11",
+                "out": "17:24:42"
+            }
+        ]
+    },
+    {
+        "user_id": "47",
+        "date": "2025-05-30",
+        "clock_in": "08:28:07",
+        "clock_out": "08:28:07",
+        "final_clock": "08:28:07",
+        "raw_punches": [
+            "08:28:07"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-30",
+        "clock_in": "13:53:31",
+        "clock_out": "17:19:55",
+        "final_clock": "17:19:55",
+        "raw_punches": [
+            "13:53:31",
+            "17:19:55"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "13:53:31",
+                "out": "17:19:55"
+            }
+        ]
+    },
+    {
+        "user_id": "7",
+        "date": "2025-05-31",
+        "clock_in": "07:51:20",
+        "clock_out": "12:24:03",
+        "final_clock": "12:24:03",
+        "raw_punches": [
+            "07:51:20",
+            "12:24:03"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:51:20",
+                "out": "12:24:03"
+            }
+        ]
+    },
+    {
+        "user_id": "15",
+        "date": "2025-05-31",
+        "clock_in": "07:58:40",
+        "clock_out": "07:58:40",
+        "final_clock": "07:58:40",
+        "raw_punches": [
+            "07:58:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-05-31",
+        "clock_in": "08:01:00",
+        "clock_out": "08:01:00",
+        "final_clock": "08:01:00",
+        "raw_punches": [
+            "08:01:00"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-05-31",
+        "clock_in": "08:01:32",
+        "clock_out": "08:01:32",
+        "final_clock": "08:01:32",
+        "raw_punches": [
+            "08:01:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-05-31",
+        "clock_in": "08:01:37",
+        "clock_out": "08:01:37",
+        "final_clock": "08:01:37",
+        "raw_punches": [
+            "08:01:37"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-05-31",
+        "clock_in": "08:04:20",
+        "clock_out": "08:04:20",
+        "final_clock": "08:04:20",
+        "raw_punches": [
+            "08:04:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-05-31",
+        "clock_in": "08:04:31",
+        "clock_out": "08:04:31",
+        "final_clock": "08:04:31",
+        "raw_punches": [
+            "08:04:31"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-05-31",
+        "clock_in": "08:05:38",
+        "clock_out": "08:05:38",
+        "final_clock": "08:05:38",
+        "raw_punches": [
+            "08:05:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-05-31",
+        "clock_in": "08:08:51",
+        "clock_out": "08:08:51",
+        "final_clock": "08:08:51",
+        "raw_punches": [
+            "08:08:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-05-31",
+        "clock_in": "08:10:34",
+        "clock_out": "08:10:34",
+        "final_clock": "08:10:34",
+        "raw_punches": [
+            "08:10:34"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "39",
+        "date": "2025-05-31",
+        "clock_in": "08:10:40",
+        "clock_out": "08:10:40",
+        "final_clock": "08:10:40",
+        "raw_punches": [
+            "08:10:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-05-31",
+        "clock_in": "08:11:13",
+        "clock_out": "08:11:13",
+        "final_clock": "08:11:13",
+        "raw_punches": [
+            "08:11:13"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-05-31",
+        "clock_in": "08:15:58",
+        "clock_out": "08:15:58",
+        "final_clock": "08:15:58",
+        "raw_punches": [
+            "08:15:58"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-05-31",
+        "clock_in": "08:16:02",
+        "clock_out": "08:16:02",
+        "final_clock": "08:16:02",
+        "raw_punches": [
+            "08:16:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-05-31",
+        "clock_in": "08:17:54",
+        "clock_out": "08:17:54",
+        "final_clock": "08:17:54",
+        "raw_punches": [
+            "08:17:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-05-31",
+        "clock_in": "08:21:39",
+        "clock_out": "08:21:39",
+        "final_clock": "08:21:39",
+        "raw_punches": [
+            "08:21:39"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-05-31",
+        "clock_in": "08:21:43",
+        "clock_out": "08:21:43",
+        "final_clock": "08:21:43",
+        "raw_punches": [
+            "08:21:43"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-05-31",
+        "clock_in": "08:21:46",
+        "clock_out": "08:21:46",
+        "final_clock": "08:21:46",
+        "raw_punches": [
+            "08:21:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-05-31",
+        "clock_in": "08:23:59",
+        "clock_out": "08:23:59",
+        "final_clock": "08:23:59",
+        "raw_punches": [
+            "08:23:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-05-31",
+        "clock_in": "08:25:58",
+        "clock_out": "08:25:58",
+        "final_clock": "08:25:58",
+        "raw_punches": [
+            "08:25:58"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-05-31",
+        "clock_in": "08:26:35",
+        "clock_out": "08:26:35",
+        "final_clock": "08:26:35",
+        "raw_punches": [
+            "08:26:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-05-31",
+        "clock_in": "08:26:38",
+        "clock_out": "08:26:38",
+        "final_clock": "08:26:38",
+        "raw_punches": [
+            "08:26:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-05-31",
+        "clock_in": "08:27:28",
+        "clock_out": "08:27:28",
+        "final_clock": "08:27:28",
+        "raw_punches": [
+            "08:27:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-05-31",
+        "clock_in": "08:28:55",
+        "clock_out": "08:28:55",
+        "final_clock": "08:28:55",
+        "raw_punches": [
+            "08:28:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-05-31",
+        "clock_in": "08:31:43",
+        "clock_out": "08:31:43",
+        "final_clock": "08:31:43",
+        "raw_punches": [
+            "08:31:43"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "45",
+        "date": "2025-05-31",
+        "clock_in": "08:31:48",
+        "clock_out": "08:31:48",
+        "final_clock": "08:31:48",
+        "raw_punches": [
+            "08:31:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-05-31",
+        "clock_in": "08:31:54",
+        "clock_out": "08:31:54",
+        "final_clock": "08:31:54",
+        "raw_punches": [
+            "08:31:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-05-31",
+        "clock_in": "08:31:59",
+        "clock_out": "08:31:59",
+        "final_clock": "08:31:59",
+        "raw_punches": [
+            "08:31:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-05-31",
+        "clock_in": "08:33:03",
+        "clock_out": "08:33:03",
+        "final_clock": "08:33:03",
+        "raw_punches": [
+            "08:33:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-05-31",
+        "clock_in": "08:33:08",
+        "clock_out": "08:33:08",
+        "final_clock": "08:33:08",
+        "raw_punches": [
+            "08:33:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-05-31",
+        "clock_in": "08:33:18",
+        "clock_out": "08:33:18",
+        "final_clock": "08:33:18",
+        "raw_punches": [
+            "08:33:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-05-31",
+        "clock_in": "08:33:37",
+        "clock_out": "08:33:37",
+        "final_clock": "08:33:37",
+        "raw_punches": [
+            "08:33:37"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "43",
+        "date": "2025-05-31",
+        "clock_in": "08:49:38",
+        "clock_out": "08:49:38",
+        "final_clock": "08:49:38",
+        "raw_punches": [
+            "08:49:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-05-31",
+        "clock_in": "08:53:14",
+        "clock_out": "08:53:14",
+        "final_clock": "08:53:14",
+        "raw_punches": [
+            "08:53:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-05-31",
+        "clock_in": "09:59:58",
+        "clock_out": "15:27:24",
+        "final_clock": "15:27:24",
+        "raw_punches": [
+            "09:59:58",
+            "15:27:24"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "09:59:58",
+                "out": "15:27:24"
+            }
+        ]
+    },
+    {
+        "user_id": "47",
+        "date": "2025-05-31",
+        "clock_in": "12:25:36",
+        "clock_out": "12:25:36",
+        "final_clock": "12:25:36",
+        "raw_punches": [
+            "12:25:36"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-06-01",
+        "clock_in": "10:58:52",
+        "clock_out": "10:58:52",
+        "final_clock": "10:58:52",
+        "raw_punches": [
+            "10:58:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-06-01",
+        "clock_in": "10:59:22",
+        "clock_out": "10:59:22",
+        "final_clock": "10:59:22",
+        "raw_punches": [
+            "10:59:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-06-01",
+        "clock_in": "10:59:25",
+        "clock_out": "10:59:27",
+        "final_clock": "10:59:27",
+        "raw_punches": [
+            "10:59:25",
+            "10:59:27"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:59:25",
+                "out": "10:59:27"
+            }
+        ]
+    },
+    {
+        "user_id": "11",
+        "date": "2025-06-01",
+        "clock_in": "11:03:25",
+        "clock_out": "11:03:25",
+        "final_clock": "11:03:25",
+        "raw_punches": [
+            "11:03:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-06-01",
+        "clock_in": "11:06:55",
+        "clock_out": "16:09:22",
+        "final_clock": "16:09:22",
+        "raw_punches": [
+            "11:06:55",
+            "16:09:22"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "11:06:55",
+                "out": "16:09:22"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-06-01",
+        "clock_in": "11:11:30",
+        "clock_out": "11:11:38",
+        "final_clock": "11:11:38",
+        "raw_punches": [
+            "11:11:30",
+            "11:11:34",
+            "11:11:36",
+            "11:11:38"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "11:11:30",
+                "out": "11:11:34"
+            },
+            {
+                "in": "11:11:36",
+                "out": "11:11:38"
+            }
+        ]
+    },
+    {
+        "user_id": "31",
+        "date": "2025-06-01",
+        "clock_in": "11:11:40",
+        "clock_out": "11:11:40",
+        "final_clock": "11:11:40",
+        "raw_punches": [
+            "11:11:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-06-01",
+        "clock_in": "11:13:09",
+        "clock_out": "11:13:09",
+        "final_clock": "11:13:09",
+        "raw_punches": [
+            "11:13:09"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-06-01",
+        "clock_in": "11:13:54",
+        "clock_out": "11:13:54",
+        "final_clock": "11:13:54",
+        "raw_punches": [
+            "11:13:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "45",
+        "date": "2025-06-01",
+        "clock_in": "11:16:31",
+        "clock_out": "11:16:31",
+        "final_clock": "11:16:31",
+        "raw_punches": [
+            "11:16:31"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-06-01",
+        "clock_in": "11:16:36",
+        "clock_out": "11:16:36",
+        "final_clock": "11:16:36",
+        "raw_punches": [
+            "11:16:36"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-06-01",
+        "clock_in": "11:27:38",
+        "clock_out": "11:27:38",
+        "final_clock": "11:27:38",
+        "raw_punches": [
+            "11:27:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-06-02",
+        "clock_in": "07:18:09",
+        "clock_out": "07:18:09",
+        "final_clock": "07:18:09",
+        "raw_punches": [
+            "07:18:09"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-06-02",
+        "clock_in": "07:30:15",
+        "clock_out": "07:30:15",
+        "final_clock": "07:30:15",
+        "raw_punches": [
+            "07:30:15"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-06-02",
+        "clock_in": "07:42:45",
+        "clock_out": "07:42:45",
+        "final_clock": "07:42:45",
+        "raw_punches": [
+            "07:42:45"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-06-02",
+        "clock_in": "07:45:08",
+        "clock_out": "07:45:08",
+        "final_clock": "07:45:08",
+        "raw_punches": [
+            "07:45:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-06-02",
+        "clock_in": "07:45:54",
+        "clock_out": "07:45:57",
+        "final_clock": "07:45:57",
+        "raw_punches": [
+            "07:45:54",
+            "07:45:57"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:45:54",
+                "out": "07:45:57"
+            }
+        ]
+    },
+    {
+        "user_id": "9",
+        "date": "2025-06-02",
+        "clock_in": "07:51:22",
+        "clock_out": "07:51:22",
+        "final_clock": "07:51:22",
+        "raw_punches": [
+            "07:51:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-06-02",
+        "clock_in": "07:57:06",
+        "clock_out": "07:57:06",
+        "final_clock": "07:57:06",
+        "raw_punches": [
+            "07:57:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-06-02",
+        "clock_in": "07:57:43",
+        "clock_out": "07:57:43",
+        "final_clock": "07:57:43",
+        "raw_punches": [
+            "07:57:43"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-06-02",
+        "clock_in": "08:01:18",
+        "clock_out": "08:01:18",
+        "final_clock": "08:01:18",
+        "raw_punches": [
+            "08:01:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-06-02",
+        "clock_in": "08:02:58",
+        "clock_out": "08:02:58",
+        "final_clock": "08:02:58",
+        "raw_punches": [
+            "08:02:58"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-06-02",
+        "clock_in": "08:03:27",
+        "clock_out": "14:41:04",
+        "final_clock": "14:41:04",
+        "raw_punches": [
+            "08:03:27",
+            "14:41:04"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:03:27",
+                "out": "14:41:04"
+            }
+        ]
+    },
+    {
+        "user_id": "16",
+        "date": "2025-06-02",
+        "clock_in": "08:05:47",
+        "clock_out": "08:05:47",
+        "final_clock": "08:05:47",
+        "raw_punches": [
+            "08:05:47"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-06-02",
+        "clock_in": "08:05:52",
+        "clock_out": "08:05:54",
+        "final_clock": "08:05:54",
+        "raw_punches": [
+            "08:05:52",
+            "08:05:54"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:05:52",
+                "out": "08:05:54"
+            }
+        ]
+    },
+    {
+        "user_id": "3",
+        "date": "2025-06-02",
+        "clock_in": "08:07:30",
+        "clock_out": "08:07:30",
+        "final_clock": "08:07:30",
+        "raw_punches": [
+            "08:07:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-06-02",
+        "clock_in": "08:09:11",
+        "clock_out": "15:08:41",
+        "final_clock": "15:08:41",
+        "raw_punches": [
+            "08:09:11",
+            "15:08:41"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:09:11",
+                "out": "15:08:41"
+            }
+        ]
+    },
+    {
+        "user_id": "13",
+        "date": "2025-06-02",
+        "clock_in": "08:12:10",
+        "clock_out": "18:09:57",
+        "final_clock": "18:09:57",
+        "raw_punches": [
+            "08:12:10",
+            "18:09:57"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:12:10",
+                "out": "18:09:57"
+            }
+        ]
+    },
+    {
+        "user_id": "23",
+        "date": "2025-06-02",
+        "clock_in": "08:14:28",
+        "clock_out": "08:14:28",
+        "final_clock": "08:14:28",
+        "raw_punches": [
+            "08:14:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-06-02",
+        "clock_in": "08:16:53",
+        "clock_out": "08:16:53",
+        "final_clock": "08:16:53",
+        "raw_punches": [
+            "08:16:53"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-06-02",
+        "clock_in": "08:16:56",
+        "clock_out": "08:16:56",
+        "final_clock": "08:16:56",
+        "raw_punches": [
+            "08:16:56"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-06-02",
+        "clock_in": "08:17:30",
+        "clock_out": "08:17:30",
+        "final_clock": "08:17:30",
+        "raw_punches": [
+            "08:17:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "45",
+        "date": "2025-06-02",
+        "clock_in": "08:18:47",
+        "clock_out": "08:18:47",
+        "final_clock": "08:18:47",
+        "raw_punches": [
+            "08:18:47"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-06-02",
+        "clock_in": "08:20:20",
+        "clock_out": "08:20:20",
+        "final_clock": "08:20:20",
+        "raw_punches": [
+            "08:20:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-06-02",
+        "clock_in": "08:20:55",
+        "clock_out": "08:20:55",
+        "final_clock": "08:20:55",
+        "raw_punches": [
+            "08:20:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-06-02",
+        "clock_in": "08:21:08",
+        "clock_out": "08:21:08",
+        "final_clock": "08:21:08",
+        "raw_punches": [
+            "08:21:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-06-02",
+        "clock_in": "08:21:11",
+        "clock_out": "08:21:11",
+        "final_clock": "08:21:11",
+        "raw_punches": [
+            "08:21:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-06-02",
+        "clock_in": "08:21:15",
+        "clock_out": "08:21:15",
+        "final_clock": "08:21:15",
+        "raw_punches": [
+            "08:21:15"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-06-02",
+        "clock_in": "08:21:17",
+        "clock_out": "16:49:02",
+        "final_clock": "16:49:02",
+        "raw_punches": [
+            "08:21:17",
+            "16:49:02"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:21:17",
+                "out": "16:49:02"
+            }
+        ]
+    },
+    {
+        "user_id": "6",
+        "date": "2025-06-02",
+        "clock_in": "08:23:11",
+        "clock_out": "08:23:11",
+        "final_clock": "08:23:11",
+        "raw_punches": [
+            "08:23:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-06-02",
+        "clock_in": "08:23:19",
+        "clock_out": "08:23:19",
+        "final_clock": "08:23:19",
+        "raw_punches": [
+            "08:23:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-06-02",
+        "clock_in": "08:23:23",
+        "clock_out": "08:23:23",
+        "final_clock": "08:23:23",
+        "raw_punches": [
+            "08:23:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-06-02",
+        "clock_in": "08:24:00",
+        "clock_out": "08:24:00",
+        "final_clock": "08:24:00",
+        "raw_punches": [
+            "08:24:00"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-06-02",
+        "clock_in": "08:25:23",
+        "clock_out": "08:25:23",
+        "final_clock": "08:25:23",
+        "raw_punches": [
+            "08:25:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-06-02",
+        "clock_in": "08:29:09",
+        "clock_out": "08:29:09",
+        "final_clock": "08:29:09",
+        "raw_punches": [
+            "08:29:09"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-06-02",
+        "clock_in": "08:29:30",
+        "clock_out": "08:29:30",
+        "final_clock": "08:29:30",
+        "raw_punches": [
+            "08:29:30"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-06-02",
+        "clock_in": "08:35:51",
+        "clock_out": "08:35:51",
+        "final_clock": "08:35:51",
+        "raw_punches": [
+            "08:35:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-06-03",
+        "clock_in": "06:56:20",
+        "clock_out": "17:36:05",
+        "final_clock": "17:36:05",
+        "raw_punches": [
+            "06:56:20",
+            "17:36:05"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "06:56:20",
+                "out": "17:36:05"
+            }
+        ]
+    },
+    {
+        "user_id": "12",
+        "date": "2025-06-03",
+        "clock_in": "07:11:55",
+        "clock_out": "07:11:55",
+        "final_clock": "07:11:55",
+        "raw_punches": [
+            "07:11:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "45",
+        "date": "2025-06-03",
+        "clock_in": "07:17:36",
+        "clock_out": "17:34:10",
+        "final_clock": "17:34:10",
+        "raw_punches": [
+            "07:17:36",
+            "17:34:10"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:17:36",
+                "out": "17:34:10"
+            }
+        ]
+    },
+    {
+        "user_id": "7",
+        "date": "2025-06-03",
+        "clock_in": "07:24:31",
+        "clock_out": "17:28:59",
+        "final_clock": "17:28:59",
+        "raw_punches": [
+            "07:24:31",
+            "17:28:59"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:24:31",
+                "out": "17:28:59"
+            }
+        ]
+    },
+    {
+        "user_id": "41",
+        "date": "2025-06-03",
+        "clock_in": "07:30:31",
+        "clock_out": "17:09:52",
+        "final_clock": "17:09:52",
+        "raw_punches": [
+            "07:30:31",
+            "17:09:52"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:30:31",
+                "out": "17:09:52"
+            }
+        ]
+    },
+    {
+        "user_id": "33",
+        "date": "2025-06-03",
+        "clock_in": "07:31:38",
+        "clock_out": "07:31:38",
+        "final_clock": "07:31:38",
+        "raw_punches": [
+            "07:31:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-06-03",
+        "clock_in": "07:32:32",
+        "clock_out": "07:32:32",
+        "final_clock": "07:32:32",
+        "raw_punches": [
+            "07:32:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-06-03",
+        "clock_in": "07:32:46",
+        "clock_out": "18:58:25",
+        "final_clock": "18:58:25",
+        "raw_punches": [
+            "07:32:46",
+            "18:58:25"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:32:46",
+                "out": "18:58:25"
+            }
+        ]
+    },
+    {
+        "user_id": "32",
+        "date": "2025-06-03",
+        "clock_in": "07:34:18",
+        "clock_out": "07:34:18",
+        "final_clock": "07:34:18",
+        "raw_punches": [
+            "07:34:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-06-03",
+        "clock_in": "07:34:20",
+        "clock_out": "17:52:57",
+        "final_clock": "17:52:57",
+        "raw_punches": [
+            "07:34:20",
+            "17:52:57"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:34:20",
+                "out": "17:52:57"
+            }
+        ]
+    },
+    {
+        "user_id": "35",
+        "date": "2025-06-03",
+        "clock_in": "07:34:59",
+        "clock_out": "07:34:59",
+        "final_clock": "07:34:59",
+        "raw_punches": [
+            "07:34:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-06-03",
+        "clock_in": "07:40:50",
+        "clock_out": "07:40:50",
+        "final_clock": "07:40:50",
+        "raw_punches": [
+            "07:40:50"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-06-03",
+        "clock_in": "07:43:42",
+        "clock_out": "07:43:42",
+        "final_clock": "07:43:42",
+        "raw_punches": [
+            "07:43:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-06-03",
+        "clock_in": "07:44:27",
+        "clock_out": "07:44:27",
+        "final_clock": "07:44:27",
+        "raw_punches": [
+            "07:44:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-06-03",
+        "clock_in": "07:45:55",
+        "clock_out": "07:45:55",
+        "final_clock": "07:45:55",
+        "raw_punches": [
+            "07:45:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-06-03",
+        "clock_in": "07:48:29",
+        "clock_out": "07:48:29",
+        "final_clock": "07:48:29",
+        "raw_punches": [
+            "07:48:29"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-06-03",
+        "clock_in": "07:50:20",
+        "clock_out": "07:50:20",
+        "final_clock": "07:50:20",
+        "raw_punches": [
+            "07:50:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-06-03",
+        "clock_in": "07:50:51",
+        "clock_out": "07:50:51",
+        "final_clock": "07:50:51",
+        "raw_punches": [
+            "07:50:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "6",
+        "date": "2025-06-03",
+        "clock_in": "07:51:47",
+        "clock_out": "07:51:47",
+        "final_clock": "07:51:47",
+        "raw_punches": [
+            "07:51:47"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-06-03",
+        "clock_in": "07:52:26",
+        "clock_out": "07:52:26",
+        "final_clock": "07:52:26",
+        "raw_punches": [
+            "07:52:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-06-03",
+        "clock_in": "07:52:46",
+        "clock_out": "07:52:46",
+        "final_clock": "07:52:46",
+        "raw_punches": [
+            "07:52:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-06-03",
+        "clock_in": "07:52:54",
+        "clock_out": "07:52:54",
+        "final_clock": "07:52:54",
+        "raw_punches": [
+            "07:52:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-06-03",
+        "clock_in": "07:52:57",
+        "clock_out": "07:52:57",
+        "final_clock": "07:52:57",
+        "raw_punches": [
+            "07:52:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-06-03",
+        "clock_in": "07:53:04",
+        "clock_out": "07:53:04",
+        "final_clock": "07:53:04",
+        "raw_punches": [
+            "07:53:04"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-06-03",
+        "clock_in": "07:53:07",
+        "clock_out": "07:53:07",
+        "final_clock": "07:53:07",
+        "raw_punches": [
+            "07:53:07"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-06-03",
+        "clock_in": "07:55:59",
+        "clock_out": "17:44:13",
+        "final_clock": "17:44:13",
+        "raw_punches": [
+            "07:55:59",
+            "17:44:13"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:55:59",
+                "out": "17:44:13"
+            }
+        ]
+    },
+    {
+        "user_id": "10",
+        "date": "2025-06-03",
+        "clock_in": "07:56:23",
+        "clock_out": "07:56:23",
+        "final_clock": "07:56:23",
+        "raw_punches": [
+            "07:56:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "8",
+        "date": "2025-06-03",
+        "clock_in": "07:57:05",
+        "clock_out": "07:57:05",
+        "final_clock": "07:57:05",
+        "raw_punches": [
+            "07:57:05"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-06-03",
+        "clock_in": "07:57:24",
+        "clock_out": "08:37:16",
+        "final_clock": "08:37:16",
+        "raw_punches": [
+            "07:57:24",
+            "08:37:10",
+            "08:37:16"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:57:24",
+                "out": "08:37:10"
+            }
+        ]
+    },
+    {
+        "user_id": "21",
+        "date": "2025-06-03",
+        "clock_in": "07:58:02",
+        "clock_out": "17:41:54",
+        "final_clock": "17:41:54",
+        "raw_punches": [
+            "07:58:02",
+            "17:41:54"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:58:02",
+                "out": "17:41:54"
+            }
+        ]
+    },
+    {
+        "user_id": "30",
+        "date": "2025-06-03",
+        "clock_in": "07:58:07",
+        "clock_out": "07:58:07",
+        "final_clock": "07:58:07",
+        "raw_punches": [
+            "07:58:07"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "43",
+        "date": "2025-06-03",
+        "clock_in": "07:58:15",
+        "clock_out": "07:58:15",
+        "final_clock": "07:58:15",
+        "raw_punches": [
+            "07:58:15"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-06-03",
+        "clock_in": "07:58:17",
+        "clock_out": "07:58:17",
+        "final_clock": "07:58:17",
+        "raw_punches": [
+            "07:58:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-06-03",
+        "clock_in": "07:59:10",
+        "clock_out": "07:59:10",
+        "final_clock": "07:59:10",
+        "raw_punches": [
+            "07:59:10"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-06-03",
+        "clock_in": "07:59:54",
+        "clock_out": "17:48:33",
+        "final_clock": "17:48:33",
+        "raw_punches": [
+            "07:59:54",
+            "17:48:33"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:59:54",
+                "out": "17:48:33"
+            }
+        ]
+    },
+    {
+        "user_id": "36",
+        "date": "2025-06-03",
+        "clock_in": "08:08:28",
+        "clock_out": "08:08:28",
+        "final_clock": "08:08:28",
+        "raw_punches": [
+            "08:08:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-06-03",
+        "clock_in": "08:10:03",
+        "clock_out": "08:10:03",
+        "final_clock": "08:10:03",
+        "raw_punches": [
+            "08:10:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-06-03",
+        "clock_in": "08:10:25",
+        "clock_out": "08:10:25",
+        "final_clock": "08:10:25",
+        "raw_punches": [
+            "08:10:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "2",
+        "date": "2025-06-03",
+        "clock_in": "08:37:37",
+        "clock_out": "08:38:02",
+        "final_clock": "08:38:02",
+        "raw_punches": [
+            "08:37:37",
+            "08:37:46",
+            "08:38:02"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:37:37",
+                "out": "08:37:46"
+            }
+        ]
+    },
+    {
+        "user_id": "13",
+        "date": "2025-06-03",
+        "clock_in": "08:52:20",
+        "clock_out": "08:52:20",
+        "final_clock": "08:52:20",
+        "raw_punches": [
+            "08:52:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-06-04",
+        "clock_in": "07:13:07",
+        "clock_out": "07:13:07",
+        "final_clock": "07:13:07",
+        "raw_punches": [
+            "07:13:07"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-06-04",
+        "clock_in": "07:16:00",
+        "clock_out": "07:16:10",
+        "final_clock": "07:16:10",
+        "raw_punches": [
+            "07:16:00",
+            "07:16:10"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:16:00",
+                "out": "07:16:10"
+            }
+        ]
+    },
+    {
+        "user_id": "24",
+        "date": "2025-06-04",
+        "clock_in": "07:17:34",
+        "clock_out": "07:17:34",
+        "final_clock": "07:17:34",
+        "raw_punches": [
+            "07:17:34"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-06-04",
+        "clock_in": "07:18:04",
+        "clock_out": "07:18:04",
+        "final_clock": "07:18:04",
+        "raw_punches": [
+            "07:18:04"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-06-04",
+        "clock_in": "07:19:39",
+        "clock_out": "07:19:39",
+        "final_clock": "07:19:39",
+        "raw_punches": [
+            "07:19:39"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "48",
+        "date": "2025-06-04",
+        "clock_in": "07:22:25",
+        "clock_out": "07:22:25",
+        "final_clock": "07:22:25",
+        "raw_punches": [
+            "07:22:25"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-06-04",
+        "clock_in": "07:25:49",
+        "clock_out": "07:25:49",
+        "final_clock": "07:25:49",
+        "raw_punches": [
+            "07:25:49"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-06-04",
+        "clock_in": "07:29:08",
+        "clock_out": "07:29:08",
+        "final_clock": "07:29:08",
+        "raw_punches": [
+            "07:29:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "45",
+        "date": "2025-06-04",
+        "clock_in": "07:30:27",
+        "clock_out": "07:30:27",
+        "final_clock": "07:30:27",
+        "raw_punches": [
+            "07:30:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-06-04",
+        "clock_in": "07:31:43",
+        "clock_out": "07:31:43",
+        "final_clock": "07:31:43",
+        "raw_punches": [
+            "07:31:43"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-06-04",
+        "clock_in": "07:32:48",
+        "clock_out": "07:32:48",
+        "final_clock": "07:32:48",
+        "raw_punches": [
+            "07:32:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-06-04",
+        "clock_in": "07:36:43",
+        "clock_out": "18:01:04",
+        "final_clock": "18:01:04",
+        "raw_punches": [
+            "07:36:43",
+            "07:36:45",
+            "18:01:04"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:36:43",
+                "out": "07:36:45"
+            }
+        ]
+    },
+    {
+        "user_id": "31",
+        "date": "2025-06-04",
+        "clock_in": "07:38:50",
+        "clock_out": "07:38:50",
+        "final_clock": "07:38:50",
+        "raw_punches": [
+            "07:38:50"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-06-04",
+        "clock_in": "07:42:18",
+        "clock_out": "07:42:18",
+        "final_clock": "07:42:18",
+        "raw_punches": [
+            "07:42:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-06-04",
+        "clock_in": "07:42:55",
+        "clock_out": "17:38:19",
+        "final_clock": "17:38:19",
+        "raw_punches": [
+            "07:42:55",
+            "17:38:19"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:42:55",
+                "out": "17:38:19"
+            }
+        ]
+    },
+    {
+        "user_id": "40",
+        "date": "2025-06-04",
+        "clock_in": "07:43:54",
+        "clock_out": "07:43:54",
+        "final_clock": "07:43:54",
+        "raw_punches": [
+            "07:43:54"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-06-04",
+        "clock_in": "07:44:12",
+        "clock_out": "07:44:12",
+        "final_clock": "07:44:12",
+        "raw_punches": [
+            "07:44:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-06-04",
+        "clock_in": "07:44:56",
+        "clock_out": "07:44:56",
+        "final_clock": "07:44:56",
+        "raw_punches": [
+            "07:44:56"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-06-04",
+        "clock_in": "07:45:06",
+        "clock_out": "07:45:06",
+        "final_clock": "07:45:06",
+        "raw_punches": [
+            "07:45:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-06-04",
+        "clock_in": "07:45:38",
+        "clock_out": "07:45:38",
+        "final_clock": "07:45:38",
+        "raw_punches": [
+            "07:45:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-06-04",
+        "clock_in": "07:46:28",
+        "clock_out": "07:46:28",
+        "final_clock": "07:46:28",
+        "raw_punches": [
+            "07:46:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-06-04",
+        "clock_in": "07:48:28",
+        "clock_out": "07:48:28",
+        "final_clock": "07:48:28",
+        "raw_punches": [
+            "07:48:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-06-04",
+        "clock_in": "07:48:39",
+        "clock_out": "07:48:39",
+        "final_clock": "07:48:39",
+        "raw_punches": [
+            "07:48:39"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "43",
+        "date": "2025-06-04",
+        "clock_in": "07:50:03",
+        "clock_out": "07:50:03",
+        "final_clock": "07:50:03",
+        "raw_punches": [
+            "07:50:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-06-04",
+        "clock_in": "07:50:12",
+        "clock_out": "07:50:12",
+        "final_clock": "07:50:12",
+        "raw_punches": [
+            "07:50:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-06-04",
+        "clock_in": "07:51:45",
+        "clock_out": "07:51:45",
+        "final_clock": "07:51:45",
+        "raw_punches": [
+            "07:51:45"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-06-04",
+        "clock_in": "07:52:42",
+        "clock_out": "07:52:42",
+        "final_clock": "07:52:42",
+        "raw_punches": [
+            "07:52:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "6",
+        "date": "2025-06-04",
+        "clock_in": "07:53:06",
+        "clock_out": "07:53:06",
+        "final_clock": "07:53:06",
+        "raw_punches": [
+            "07:53:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-06-04",
+        "clock_in": "07:53:34",
+        "clock_out": "07:53:34",
+        "final_clock": "07:53:34",
+        "raw_punches": [
+            "07:53:34"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-06-04",
+        "clock_in": "07:53:40",
+        "clock_out": "07:53:40",
+        "final_clock": "07:53:40",
+        "raw_punches": [
+            "07:53:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-06-04",
+        "clock_in": "07:53:46",
+        "clock_out": "07:53:46",
+        "final_clock": "07:53:46",
+        "raw_punches": [
+            "07:53:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-06-04",
+        "clock_in": "07:53:48",
+        "clock_out": "07:53:48",
+        "final_clock": "07:53:48",
+        "raw_punches": [
+            "07:53:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-06-04",
+        "clock_in": "07:53:53",
+        "clock_out": "07:53:53",
+        "final_clock": "07:53:53",
+        "raw_punches": [
+            "07:53:53"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-06-04",
+        "clock_in": "07:53:58",
+        "clock_out": "17:04:40",
+        "final_clock": "17:04:40",
+        "raw_punches": [
+            "07:53:58",
+            "07:54:00",
+            "17:04:40"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:53:58",
+                "out": "07:54:00"
+            }
+        ]
+    },
+    {
+        "user_id": "5",
+        "date": "2025-06-04",
+        "clock_in": "07:55:28",
+        "clock_out": "07:55:28",
+        "final_clock": "07:55:28",
+        "raw_punches": [
+            "07:55:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "10",
+        "date": "2025-06-04",
+        "clock_in": "07:56:08",
+        "clock_out": "07:56:08",
+        "final_clock": "07:56:08",
+        "raw_punches": [
+            "07:56:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-06-04",
+        "clock_in": "07:56:11",
+        "clock_out": "07:56:11",
+        "final_clock": "07:56:11",
+        "raw_punches": [
+            "07:56:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-06-04",
+        "clock_in": "07:57:11",
+        "clock_out": "07:57:11",
+        "final_clock": "07:57:11",
+        "raw_punches": [
+            "07:57:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "8",
+        "date": "2025-06-04",
+        "clock_in": "07:57:33",
+        "clock_out": "07:57:33",
+        "final_clock": "07:57:33",
+        "raw_punches": [
+            "07:57:33"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-06-04",
+        "clock_in": "07:58:48",
+        "clock_out": "07:58:48",
+        "final_clock": "07:58:48",
+        "raw_punches": [
+            "07:58:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "2",
+        "date": "2025-06-04",
+        "clock_in": "14:05:16",
+        "clock_out": "16:38:39",
+        "final_clock": "16:38:39",
+        "raw_punches": [
+            "14:05:16",
+            "16:38:39"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "14:05:16",
+                "out": "16:38:39"
+            }
+        ]
+    },
+    {
+        "user_id": "49",
+        "date": "2025-06-04",
+        "clock_in": "16:40:44",
+        "clock_out": "16:40:44",
+        "final_clock": "16:40:44",
+        "raw_punches": [
+            "16:40:44"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "50",
+        "date": "2025-06-04",
+        "clock_in": "16:41:59",
+        "clock_out": "16:41:59",
+        "final_clock": "16:41:59",
+        "raw_punches": [
+            "16:41:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "51",
+        "date": "2025-06-04",
+        "clock_in": "16:43:31",
+        "clock_out": "16:43:31",
+        "final_clock": "16:43:31",
+        "raw_punches": [
+            "16:43:31"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-06-05",
+        "clock_in": "07:00:19",
+        "clock_out": "07:00:19",
+        "final_clock": "07:00:19",
+        "raw_punches": [
+            "07:00:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-06-05",
+        "clock_in": "07:14:22",
+        "clock_out": "07:14:22",
+        "final_clock": "07:14:22",
+        "raw_punches": [
+            "07:14:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-06-05",
+        "clock_in": "07:14:36",
+        "clock_out": "07:14:36",
+        "final_clock": "07:14:36",
+        "raw_punches": [
+            "07:14:36"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "51",
+        "date": "2025-06-05",
+        "clock_in": "07:22:21",
+        "clock_out": "07:22:21",
+        "final_clock": "07:22:21",
+        "raw_punches": [
+            "07:22:21"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-06-05",
+        "clock_in": "07:25:02",
+        "clock_out": "07:25:02",
+        "final_clock": "07:25:02",
+        "raw_punches": [
+            "07:25:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-06-05",
+        "clock_in": "07:27:23",
+        "clock_out": "07:27:23",
+        "final_clock": "07:27:23",
+        "raw_punches": [
+            "07:27:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "48",
+        "date": "2025-06-05",
+        "clock_in": "07:28:55",
+        "clock_out": "07:28:55",
+        "final_clock": "07:28:55",
+        "raw_punches": [
+            "07:28:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "45",
+        "date": "2025-06-05",
+        "clock_in": "07:34:34",
+        "clock_out": "17:31:22",
+        "final_clock": "17:31:22",
+        "raw_punches": [
+            "07:34:34",
+            "17:31:22"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:34:34",
+                "out": "17:31:22"
+            }
+        ]
+    },
+    {
+        "user_id": "32",
+        "date": "2025-06-05",
+        "clock_in": "07:34:38",
+        "clock_out": "07:34:38",
+        "final_clock": "07:34:38",
+        "raw_punches": [
+            "07:34:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-06-05",
+        "clock_in": "07:35:06",
+        "clock_out": "07:35:06",
+        "final_clock": "07:35:06",
+        "raw_punches": [
+            "07:35:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-06-05",
+        "clock_in": "07:38:14",
+        "clock_out": "07:38:14",
+        "final_clock": "07:38:14",
+        "raw_punches": [
+            "07:38:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "52",
+        "date": "2025-06-05",
+        "clock_in": "07:40:38",
+        "clock_out": "17:37:14",
+        "final_clock": "17:37:14",
+        "raw_punches": [
+            "07:40:38",
+            "07:40:48",
+            "17:37:14"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:40:38",
+                "out": "07:40:48"
+            }
+        ]
+    },
+    {
+        "user_id": "37",
+        "date": "2025-06-05",
+        "clock_in": "07:41:40",
+        "clock_out": "07:41:40",
+        "final_clock": "07:41:40",
+        "raw_punches": [
+            "07:41:40"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-06-05",
+        "clock_in": "07:41:47",
+        "clock_out": "07:41:47",
+        "final_clock": "07:41:47",
+        "raw_punches": [
+            "07:41:47"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-06-05",
+        "clock_in": "07:42:27",
+        "clock_out": "07:42:27",
+        "final_clock": "07:42:27",
+        "raw_punches": [
+            "07:42:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-06-05",
+        "clock_in": "07:43:10",
+        "clock_out": "07:43:10",
+        "final_clock": "07:43:10",
+        "raw_punches": [
+            "07:43:10"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-06-05",
+        "clock_in": "07:44:27",
+        "clock_out": "07:44:27",
+        "final_clock": "07:44:27",
+        "raw_punches": [
+            "07:44:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "50",
+        "date": "2025-06-05",
+        "clock_in": "07:44:41",
+        "clock_out": "07:44:41",
+        "final_clock": "07:44:41",
+        "raw_punches": [
+            "07:44:41"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "22",
+        "date": "2025-06-05",
+        "clock_in": "07:44:55",
+        "clock_out": "07:44:55",
+        "final_clock": "07:44:55",
+        "raw_punches": [
+            "07:44:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-06-05",
+        "clock_in": "07:47:55",
+        "clock_out": "07:47:55",
+        "final_clock": "07:47:55",
+        "raw_punches": [
+            "07:47:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "8",
+        "date": "2025-06-05",
+        "clock_in": "07:48:00",
+        "clock_out": "07:48:00",
+        "final_clock": "07:48:00",
+        "raw_punches": [
+            "07:48:00"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "36",
+        "date": "2025-06-05",
+        "clock_in": "07:50:16",
+        "clock_out": "07:50:16",
+        "final_clock": "07:50:16",
+        "raw_punches": [
+            "07:50:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-06-05",
+        "clock_in": "07:50:51",
+        "clock_out": "07:50:51",
+        "final_clock": "07:50:51",
+        "raw_punches": [
+            "07:50:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-06-05",
+        "clock_in": "07:50:57",
+        "clock_out": "07:50:57",
+        "final_clock": "07:50:57",
+        "raw_punches": [
+            "07:50:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "9",
+        "date": "2025-06-05",
+        "clock_in": "07:51:03",
+        "clock_out": "07:51:03",
+        "final_clock": "07:51:03",
+        "raw_punches": [
+            "07:51:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-06-05",
+        "clock_in": "07:51:14",
+        "clock_out": "07:51:14",
+        "final_clock": "07:51:14",
+        "raw_punches": [
+            "07:51:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-06-05",
+        "clock_in": "07:51:51",
+        "clock_out": "07:51:51",
+        "final_clock": "07:51:51",
+        "raw_punches": [
+            "07:51:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "49",
+        "date": "2025-06-05",
+        "clock_in": "07:52:04",
+        "clock_out": "07:52:04",
+        "final_clock": "07:52:04",
+        "raw_punches": [
+            "07:52:04"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-06-05",
+        "clock_in": "07:52:27",
+        "clock_out": "07:52:27",
+        "final_clock": "07:52:27",
+        "raw_punches": [
+            "07:52:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "10",
+        "date": "2025-06-05",
+        "clock_in": "07:52:51",
+        "clock_out": "07:52:51",
+        "final_clock": "07:52:51",
+        "raw_punches": [
+            "07:52:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-06-05",
+        "clock_in": "07:53:33",
+        "clock_out": "07:53:33",
+        "final_clock": "07:53:33",
+        "raw_punches": [
+            "07:53:33"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "14",
+        "date": "2025-06-05",
+        "clock_in": "07:53:44",
+        "clock_out": "07:53:44",
+        "final_clock": "07:53:44",
+        "raw_punches": [
+            "07:53:44"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "41",
+        "date": "2025-06-05",
+        "clock_in": "07:54:15",
+        "clock_out": "07:54:15",
+        "final_clock": "07:54:15",
+        "raw_punches": [
+            "07:54:15"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-06-05",
+        "clock_in": "07:55:06",
+        "clock_out": "07:55:06",
+        "final_clock": "07:55:06",
+        "raw_punches": [
+            "07:55:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-06-05",
+        "clock_in": "07:55:08",
+        "clock_out": "07:55:08",
+        "final_clock": "07:55:08",
+        "raw_punches": [
+            "07:55:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-06-05",
+        "clock_in": "07:55:32",
+        "clock_out": "07:55:32",
+        "final_clock": "07:55:32",
+        "raw_punches": [
+            "07:55:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-06-05",
+        "clock_in": "07:56:01",
+        "clock_out": "07:56:01",
+        "final_clock": "07:56:01",
+        "raw_punches": [
+            "07:56:01"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-06-05",
+        "clock_in": "07:56:22",
+        "clock_out": "07:56:22",
+        "final_clock": "07:56:22",
+        "raw_punches": [
+            "07:56:22"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "6",
+        "date": "2025-06-05",
+        "clock_in": "07:57:17",
+        "clock_out": "07:57:17",
+        "final_clock": "07:57:17",
+        "raw_punches": [
+            "07:57:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-06-05",
+        "clock_in": "07:57:23",
+        "clock_out": "07:57:23",
+        "final_clock": "07:57:23",
+        "raw_punches": [
+            "07:57:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "43",
+        "date": "2025-06-05",
+        "clock_in": "07:57:28",
+        "clock_out": "07:57:34",
+        "final_clock": "07:57:34",
+        "raw_punches": [
+            "07:57:28",
+            "07:57:34"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:57:28",
+                "out": "07:57:34"
+            }
+        ]
+    },
+    {
+        "user_id": "25",
+        "date": "2025-06-05",
+        "clock_in": "07:58:35",
+        "clock_out": "07:58:35",
+        "final_clock": "07:58:35",
+        "raw_punches": [
+            "07:58:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-06-05",
+        "clock_in": "07:58:55",
+        "clock_out": "07:58:55",
+        "final_clock": "07:58:55",
+        "raw_punches": [
+            "07:58:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-06-05",
+        "clock_in": "08:04:38",
+        "clock_out": "08:04:38",
+        "final_clock": "08:04:38",
+        "raw_punches": [
+            "08:04:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "53",
+        "date": "2025-06-05",
+        "clock_in": "10:16:55",
+        "clock_out": "10:16:55",
+        "final_clock": "10:16:55",
+        "raw_punches": [
+            "10:16:55"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "54",
+        "date": "2025-06-05",
+        "clock_in": "10:18:39",
+        "clock_out": "10:18:39",
+        "final_clock": "10:18:39",
+        "raw_punches": [
+            "10:18:39"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "55",
+        "date": "2025-06-05",
+        "clock_in": "10:21:19",
+        "clock_out": "10:21:19",
+        "final_clock": "10:21:19",
+        "raw_punches": [
+            "10:21:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "56",
+        "date": "2025-06-05",
+        "clock_in": "10:23:10",
+        "clock_out": "10:23:10",
+        "final_clock": "10:23:10",
+        "raw_punches": [
+            "10:23:10"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "57",
+        "date": "2025-06-05",
+        "clock_in": "10:23:59",
+        "clock_out": "10:23:59",
+        "final_clock": "10:23:59",
+        "raw_punches": [
+            "10:23:59"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "58",
+        "date": "2025-06-05",
+        "clock_in": "10:24:56",
+        "clock_out": "17:37:23",
+        "final_clock": "17:37:23",
+        "raw_punches": [
+            "10:24:56",
+            "17:37:23"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "10:24:56",
+                "out": "17:37:23"
+            }
+        ]
+    },
+    {
+        "user_id": "59",
+        "date": "2025-06-05",
+        "clock_in": "10:26:13",
+        "clock_out": "10:26:13",
+        "final_clock": "10:26:13",
+        "raw_punches": [
+            "10:26:13"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "60",
+        "date": "2025-06-05",
+        "clock_in": "10:27:52",
+        "clock_out": "10:27:52",
+        "final_clock": "10:27:52",
+        "raw_punches": [
+            "10:27:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "61",
+        "date": "2025-06-05",
+        "clock_in": "10:29:20",
+        "clock_out": "10:29:20",
+        "final_clock": "10:29:20",
+        "raw_punches": [
+            "10:29:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-06-06",
+        "clock_in": "07:47:02",
+        "clock_out": "07:47:02",
+        "final_clock": "07:47:02",
+        "raw_punches": [
+            "07:47:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "55",
+        "date": "2025-06-06",
+        "clock_in": "07:49:41",
+        "clock_out": "07:49:41",
+        "final_clock": "07:49:41",
+        "raw_punches": [
+            "07:49:41"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "26",
+        "date": "2025-06-06",
+        "clock_in": "07:50:04",
+        "clock_out": "07:50:04",
+        "final_clock": "07:50:04",
+        "raw_punches": [
+            "07:50:04"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "60",
+        "date": "2025-06-06",
+        "clock_in": "07:53:50",
+        "clock_out": "15:49:44",
+        "final_clock": "15:49:44",
+        "raw_punches": [
+            "07:53:50",
+            "15:49:44"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:53:50",
+                "out": "15:49:44"
+            }
+        ]
+    },
+    {
+        "user_id": "41",
+        "date": "2025-06-06",
+        "clock_in": "07:54:18",
+        "clock_out": "07:54:18",
+        "final_clock": "07:54:18",
+        "raw_punches": [
+            "07:54:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "37",
+        "date": "2025-06-06",
+        "clock_in": "07:54:57",
+        "clock_out": "07:54:57",
+        "final_clock": "07:54:57",
+        "raw_punches": [
+            "07:54:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-06-06",
+        "clock_in": "07:55:20",
+        "clock_out": "07:55:20",
+        "final_clock": "07:55:20",
+        "raw_punches": [
+            "07:55:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "48",
+        "date": "2025-06-06",
+        "clock_in": "08:01:51",
+        "clock_out": "08:01:51",
+        "final_clock": "08:01:51",
+        "raw_punches": [
+            "08:01:51"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "15",
+        "date": "2025-06-06",
+        "clock_in": "08:02:03",
+        "clock_out": "08:02:03",
+        "final_clock": "08:02:03",
+        "raw_punches": [
+            "08:02:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-06-06",
+        "clock_in": "08:04:16",
+        "clock_out": "08:04:16",
+        "final_clock": "08:04:16",
+        "raw_punches": [
+            "08:04:16"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-06-06",
+        "clock_in": "08:04:21",
+        "clock_out": "08:04:21",
+        "final_clock": "08:04:21",
+        "raw_punches": [
+            "08:04:21"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "49",
+        "date": "2025-06-06",
+        "clock_in": "08:04:27",
+        "clock_out": "08:04:27",
+        "final_clock": "08:04:27",
+        "raw_punches": [
+            "08:04:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "50",
+        "date": "2025-06-06",
+        "clock_in": "08:05:11",
+        "clock_out": "08:05:11",
+        "final_clock": "08:05:11",
+        "raw_punches": [
+            "08:05:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-06-06",
+        "clock_in": "08:05:13",
+        "clock_out": "08:05:13",
+        "final_clock": "08:05:13",
+        "raw_punches": [
+            "08:05:13"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "57",
+        "date": "2025-06-06",
+        "clock_in": "08:06:01",
+        "clock_out": "08:06:01",
+        "final_clock": "08:06:01",
+        "raw_punches": [
+            "08:06:01"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "20",
+        "date": "2025-06-06",
+        "clock_in": "08:06:38",
+        "clock_out": "15:07:48",
+        "final_clock": "15:07:48",
+        "raw_punches": [
+            "08:06:38",
+            "15:07:48"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:06:38",
+                "out": "15:07:48"
+            }
+        ]
+    },
+    {
+        "user_id": "22",
+        "date": "2025-06-06",
+        "clock_in": "08:08:43",
+        "clock_out": "08:08:43",
+        "final_clock": "08:08:43",
+        "raw_punches": [
+            "08:08:43"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-06-06",
+        "clock_in": "08:08:48",
+        "clock_out": "08:08:48",
+        "final_clock": "08:08:48",
+        "raw_punches": [
+            "08:08:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-06-06",
+        "clock_in": "08:11:17",
+        "clock_out": "08:11:17",
+        "final_clock": "08:11:17",
+        "raw_punches": [
+            "08:11:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "25",
+        "date": "2025-06-06",
+        "clock_in": "08:11:45",
+        "clock_out": "08:11:45",
+        "final_clock": "08:11:45",
+        "raw_punches": [
+            "08:11:45"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-06-06",
+        "clock_in": "08:13:01",
+        "clock_out": "08:13:01",
+        "final_clock": "08:13:01",
+        "raw_punches": [
+            "08:13:01"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "53",
+        "date": "2025-06-06",
+        "clock_in": "08:16:06",
+        "clock_out": "08:16:06",
+        "final_clock": "08:16:06",
+        "raw_punches": [
+            "08:16:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "56",
+        "date": "2025-06-06",
+        "clock_in": "08:16:11",
+        "clock_out": "08:16:11",
+        "final_clock": "08:16:11",
+        "raw_punches": [
+            "08:16:11"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-06-06",
+        "clock_in": "08:16:14",
+        "clock_out": "08:16:14",
+        "final_clock": "08:16:14",
+        "raw_punches": [
+            "08:16:14"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-06-06",
+        "clock_in": "08:17:02",
+        "clock_out": "13:48:03",
+        "final_clock": "13:48:03",
+        "raw_punches": [
+            "08:17:02",
+            "13:47:59",
+            "13:48:01",
+            "13:48:03"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:17:02",
+                "out": "13:47:59"
+            },
+            {
+                "in": "13:48:01",
+                "out": "13:48:03"
+            }
+        ]
+    },
+    {
+        "user_id": "21",
+        "date": "2025-06-06",
+        "clock_in": "08:17:27",
+        "clock_out": "15:08:40",
+        "final_clock": "15:08:40",
+        "raw_punches": [
+            "08:17:27",
+            "15:08:40"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:17:27",
+                "out": "15:08:40"
+            }
+        ]
+    },
+    {
+        "user_id": "42",
+        "date": "2025-06-06",
+        "clock_in": "08:17:47",
+        "clock_out": "08:17:47",
+        "final_clock": "08:17:47",
+        "raw_punches": [
+            "08:17:47"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "8",
+        "date": "2025-06-06",
+        "clock_in": "08:18:28",
+        "clock_out": "08:18:28",
+        "final_clock": "08:18:28",
+        "raw_punches": [
+            "08:18:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "16",
+        "date": "2025-06-06",
+        "clock_in": "08:18:52",
+        "clock_out": "08:18:52",
+        "final_clock": "08:18:52",
+        "raw_punches": [
+            "08:18:52"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-06-06",
+        "clock_in": "08:20:42",
+        "clock_out": "08:20:42",
+        "final_clock": "08:20:42",
+        "raw_punches": [
+            "08:20:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "58",
+        "date": "2025-06-06",
+        "clock_in": "08:21:02",
+        "clock_out": "08:21:02",
+        "final_clock": "08:21:02",
+        "raw_punches": [
+            "08:21:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-06-06",
+        "clock_in": "08:22:10",
+        "clock_out": "15:09:16",
+        "final_clock": "15:09:16",
+        "raw_punches": [
+            "08:22:10",
+            "15:09:02",
+            "15:09:10",
+            "15:09:16"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:22:10",
+                "out": "15:09:02"
+            },
+            {
+                "in": "15:09:10",
+                "out": "15:09:16"
+            }
+        ]
+    },
+    {
+        "user_id": "45",
+        "date": "2025-06-06",
+        "clock_in": "08:22:56",
+        "clock_out": "15:11:38",
+        "final_clock": "15:11:38",
+        "raw_punches": [
+            "08:22:56",
+            "15:11:38"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:22:56",
+                "out": "15:11:38"
+            }
+        ]
+    },
+    {
+        "user_id": "5",
+        "date": "2025-06-06",
+        "clock_in": "08:26:18",
+        "clock_out": "08:26:18",
+        "final_clock": "08:26:18",
+        "raw_punches": [
+            "08:26:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "54",
+        "date": "2025-06-06",
+        "clock_in": "08:26:20",
+        "clock_out": "08:26:20",
+        "final_clock": "08:26:20",
+        "raw_punches": [
+            "08:26:20"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-06-06",
+        "clock_in": "08:27:20",
+        "clock_out": "16:04:00",
+        "final_clock": "16:04:00",
+        "raw_punches": [
+            "08:27:20",
+            "16:04:00"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:27:20",
+                "out": "16:04:00"
+            }
+        ]
+    },
+    {
+        "user_id": "59",
+        "date": "2025-06-06",
+        "clock_in": "08:27:30",
+        "clock_out": "16:03:52",
+        "final_clock": "16:03:52",
+        "raw_punches": [
+            "08:27:30",
+            "16:03:52"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:27:30",
+                "out": "16:03:52"
+            }
+        ]
+    },
+    {
+        "user_id": "61",
+        "date": "2025-06-06",
+        "clock_in": "08:27:34",
+        "clock_out": "15:49:16",
+        "final_clock": "15:49:16",
+        "raw_punches": [
+            "08:27:34",
+            "15:49:16"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:27:34",
+                "out": "15:49:16"
+            }
+        ]
+    },
+    {
+        "user_id": "10",
+        "date": "2025-06-06",
+        "clock_in": "08:31:39",
+        "clock_out": "08:31:39",
+        "final_clock": "08:31:39",
+        "raw_punches": [
+            "08:31:39"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "4",
+        "date": "2025-06-06",
+        "clock_in": "08:31:42",
+        "clock_out": "08:31:42",
+        "final_clock": "08:31:42",
+        "raw_punches": [
+            "08:31:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "51",
+        "date": "2025-06-06",
+        "clock_in": "08:33:17",
+        "clock_out": "08:33:17",
+        "final_clock": "08:33:17",
+        "raw_punches": [
+            "08:33:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "44",
+        "date": "2025-06-06",
+        "clock_in": "08:33:27",
+        "clock_out": "08:33:29",
+        "final_clock": "08:33:29",
+        "raw_punches": [
+            "08:33:27",
+            "08:33:29"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:33:27",
+                "out": "08:33:29"
+            }
+        ]
+    },
+    {
+        "user_id": "6",
+        "date": "2025-06-06",
+        "clock_in": "08:45:03",
+        "clock_out": "08:45:03",
+        "final_clock": "08:45:03",
+        "raw_punches": [
+            "08:45:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "27",
+        "date": "2025-06-06",
+        "clock_in": "08:45:08",
+        "clock_out": "08:45:08",
+        "final_clock": "08:45:08",
+        "raw_punches": [
+            "08:45:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-06-06",
+        "clock_in": "08:45:11",
+        "clock_out": "15:49:37",
+        "final_clock": "15:49:37",
+        "raw_punches": [
+            "08:45:11",
+            "15:49:37"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:45:11",
+                "out": "15:49:37"
+            }
+        ]
+    },
+    {
+        "user_id": "13",
+        "date": "2025-06-06",
+        "clock_in": "08:50:04",
+        "clock_out": "08:50:04",
+        "final_clock": "08:50:04",
+        "raw_punches": [
+            "08:50:04"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "52",
+        "date": "2025-06-06",
+        "clock_in": "08:50:46",
+        "clock_out": "08:50:46",
+        "final_clock": "08:50:46",
+        "raw_punches": [
+            "08:50:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "7",
+        "date": "2025-06-07",
+        "clock_in": "07:46:26",
+        "clock_out": "07:46:26",
+        "final_clock": "07:46:26",
+        "raw_punches": [
+            "07:46:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "38",
+        "date": "2025-06-07",
+        "clock_in": "07:46:38",
+        "clock_out": "07:46:38",
+        "final_clock": "07:46:38",
+        "raw_punches": [
+            "07:46:38"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "48",
+        "date": "2025-06-07",
+        "clock_in": "07:46:44",
+        "clock_out": "07:46:44",
+        "final_clock": "07:46:44",
+        "raw_punches": [
+            "07:46:44"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "24",
+        "date": "2025-06-07",
+        "clock_in": "07:46:49",
+        "clock_out": "07:46:49",
+        "final_clock": "07:46:49",
+        "raw_punches": [
+            "07:46:49"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "11",
+        "date": "2025-06-07",
+        "clock_in": "07:48:06",
+        "clock_out": "07:48:06",
+        "final_clock": "07:48:06",
+        "raw_punches": [
+            "07:48:06"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "31",
+        "date": "2025-06-07",
+        "clock_in": "07:51:23",
+        "clock_out": "07:51:23",
+        "final_clock": "07:51:23",
+        "raw_punches": [
+            "07:51:23"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "28",
+        "date": "2025-06-07",
+        "clock_in": "07:51:26",
+        "clock_out": "07:51:26",
+        "final_clock": "07:51:26",
+        "raw_punches": [
+            "07:51:26"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "55",
+        "date": "2025-06-07",
+        "clock_in": "07:57:08",
+        "clock_out": "07:57:08",
+        "final_clock": "07:57:08",
+        "raw_punches": [
+            "07:57:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "35",
+        "date": "2025-06-07",
+        "clock_in": "07:58:47",
+        "clock_out": "14:27:51",
+        "final_clock": "14:27:51",
+        "raw_punches": [
+            "07:58:47",
+            "14:27:51"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "07:58:47",
+                "out": "14:27:51"
+            }
+        ]
+    },
+    {
+        "user_id": "60",
+        "date": "2025-06-07",
+        "clock_in": "08:00:52",
+        "clock_out": "08:00:54",
+        "final_clock": "08:00:54",
+        "raw_punches": [
+            "08:00:52",
+            "08:00:54"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:00:52",
+                "out": "08:00:54"
+            }
+        ]
+    },
+    {
+        "user_id": "14",
+        "date": "2025-06-07",
+        "clock_in": "08:01:42",
+        "clock_out": "08:01:42",
+        "final_clock": "08:01:42",
+        "raw_punches": [
+            "08:01:42"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "56",
+        "date": "2025-06-07",
+        "clock_in": "08:06:57",
+        "clock_out": "08:06:57",
+        "final_clock": "08:06:57",
+        "raw_punches": [
+            "08:06:57"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "19",
+        "date": "2025-06-07",
+        "clock_in": "08:09:10",
+        "clock_out": "08:09:10",
+        "final_clock": "08:09:10",
+        "raw_punches": [
+            "08:09:10"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "12",
+        "date": "2025-06-07",
+        "clock_in": "08:09:22",
+        "clock_out": "14:10:32",
+        "final_clock": "14:10:32",
+        "raw_punches": [
+            "08:09:22",
+            "14:10:32"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:09:22",
+                "out": "14:10:32"
+            }
+        ]
+    },
+    {
+        "user_id": "50",
+        "date": "2025-06-07",
+        "clock_in": "08:09:32",
+        "clock_out": "08:09:32",
+        "final_clock": "08:09:32",
+        "raw_punches": [
+            "08:09:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "49",
+        "date": "2025-06-07",
+        "clock_in": "08:10:28",
+        "clock_out": "08:10:28",
+        "final_clock": "08:10:28",
+        "raw_punches": [
+            "08:10:28"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "33",
+        "date": "2025-06-07",
+        "clock_in": "08:10:52",
+        "clock_out": "14:24:34",
+        "final_clock": "14:24:34",
+        "raw_punches": [
+            "08:10:52",
+            "14:24:34"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:10:52",
+                "out": "14:24:34"
+            }
+        ]
+    },
+    {
+        "user_id": "25",
+        "date": "2025-06-07",
+        "clock_in": "08:11:08",
+        "clock_out": "08:11:08",
+        "final_clock": "08:11:08",
+        "raw_punches": [
+            "08:11:08"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "3",
+        "date": "2025-06-07",
+        "clock_in": "08:13:12",
+        "clock_out": "08:13:12",
+        "final_clock": "08:13:12",
+        "raw_punches": [
+            "08:13:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "34",
+        "date": "2025-06-07",
+        "clock_in": "08:13:35",
+        "clock_out": "14:24:02",
+        "final_clock": "14:24:02",
+        "raw_punches": [
+            "08:13:35",
+            "14:24:02"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:13:35",
+                "out": "14:24:02"
+            }
+        ]
+    },
+    {
+        "user_id": "22",
+        "date": "2025-06-07",
+        "clock_in": "08:13:58",
+        "clock_out": "08:13:58",
+        "final_clock": "08:13:58",
+        "raw_punches": [
+            "08:13:58"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "17",
+        "date": "2025-06-07",
+        "clock_in": "08:14:07",
+        "clock_out": "08:14:07",
+        "final_clock": "08:14:07",
+        "raw_punches": [
+            "08:14:07"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "5",
+        "date": "2025-06-07",
+        "clock_in": "08:16:41",
+        "clock_out": "08:16:41",
+        "final_clock": "08:16:41",
+        "raw_punches": [
+            "08:16:41"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "57",
+        "date": "2025-06-07",
+        "clock_in": "08:17:46",
+        "clock_out": "08:17:46",
+        "final_clock": "08:17:46",
+        "raw_punches": [
+            "08:17:46"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "21",
+        "date": "2025-06-07",
+        "clock_in": "08:19:02",
+        "clock_out": "08:19:02",
+        "final_clock": "08:19:02",
+        "raw_punches": [
+            "08:19:02"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "42",
+        "date": "2025-06-07",
+        "clock_in": "08:19:46",
+        "clock_out": "13:46:17",
+        "final_clock": "13:46:17",
+        "raw_punches": [
+            "08:19:46",
+            "13:46:17"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:19:46",
+                "out": "13:46:17"
+            }
+        ]
+    },
+    {
+        "user_id": "8",
+        "date": "2025-06-07",
+        "clock_in": "08:19:48",
+        "clock_out": "08:19:48",
+        "final_clock": "08:19:48",
+        "raw_punches": [
+            "08:19:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "23",
+        "date": "2025-06-07",
+        "clock_in": "08:24:27",
+        "clock_out": "08:24:27",
+        "final_clock": "08:24:27",
+        "raw_punches": [
+            "08:24:27"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "32",
+        "date": "2025-06-07",
+        "clock_in": "08:24:47",
+        "clock_out": "08:24:47",
+        "final_clock": "08:24:47",
+        "raw_punches": [
+            "08:24:47"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "52",
+        "date": "2025-06-07",
+        "clock_in": "08:25:10",
+        "clock_out": "08:25:10",
+        "final_clock": "08:25:10",
+        "raw_punches": [
+            "08:25:10"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "54",
+        "date": "2025-06-07",
+        "clock_in": "08:25:15",
+        "clock_out": "08:25:15",
+        "final_clock": "08:25:15",
+        "raw_punches": [
+            "08:25:15"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "40",
+        "date": "2025-06-07",
+        "clock_in": "08:25:18",
+        "clock_out": "08:25:18",
+        "final_clock": "08:25:18",
+        "raw_punches": [
+            "08:25:18"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "18",
+        "date": "2025-06-07",
+        "clock_in": "08:25:22",
+        "clock_out": "08:25:24",
+        "final_clock": "08:25:24",
+        "raw_punches": [
+            "08:25:22",
+            "08:25:24"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:25:22",
+                "out": "08:25:24"
+            }
+        ]
+    },
+    {
+        "user_id": "51",
+        "date": "2025-06-07",
+        "clock_in": "08:27:17",
+        "clock_out": "08:27:17",
+        "final_clock": "08:27:17",
+        "raw_punches": [
+            "08:27:17"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "45",
+        "date": "2025-06-07",
+        "clock_in": "08:28:12",
+        "clock_out": "08:28:12",
+        "final_clock": "08:28:12",
+        "raw_punches": [
+            "08:28:12"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "46",
+        "date": "2025-06-07",
+        "clock_in": "08:29:09",
+        "clock_out": "08:29:09",
+        "final_clock": "08:29:09",
+        "raw_punches": [
+            "08:29:09"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "59",
+        "date": "2025-06-07",
+        "clock_in": "08:30:32",
+        "clock_out": "08:30:32",
+        "final_clock": "08:30:32",
+        "raw_punches": [
+            "08:30:32"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "53",
+        "date": "2025-06-07",
+        "clock_in": "08:30:35",
+        "clock_out": "08:30:35",
+        "final_clock": "08:30:35",
+        "raw_punches": [
+            "08:30:35"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "61",
+        "date": "2025-06-07",
+        "clock_in": "08:31:21",
+        "clock_out": "08:31:21",
+        "final_clock": "08:31:21",
+        "raw_punches": [
+            "08:31:21"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "30",
+        "date": "2025-06-07",
+        "clock_in": "08:32:24",
+        "clock_out": "13:56:13",
+        "final_clock": "13:56:13",
+        "raw_punches": [
+            "08:32:24",
+            "13:56:11",
+            "13:56:13"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:32:24",
+                "out": "13:56:11"
+            }
+        ]
+    },
+    {
+        "user_id": "43",
+        "date": "2025-06-07",
+        "clock_in": "08:32:32",
+        "clock_out": "14:43:20",
+        "final_clock": "14:43:20",
+        "raw_punches": [
+            "08:32:32",
+            "08:32:34",
+            "12:35:37",
+            "12:35:39",
+            "14:43:20"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:32:32",
+                "out": "08:32:34"
+            },
+            {
+                "in": "12:35:37",
+                "out": "12:35:39"
+            }
+        ]
+    },
+    {
+        "user_id": "44",
+        "date": "2025-06-07",
+        "clock_in": "08:33:19",
+        "clock_out": "08:33:19",
+        "final_clock": "08:33:19",
+        "raw_punches": [
+            "08:33:19"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "10",
+        "date": "2025-06-07",
+        "clock_in": "08:40:48",
+        "clock_out": "14:35:50",
+        "final_clock": "14:35:50",
+        "raw_punches": [
+            "08:40:48",
+            "14:35:50"
+        ],
+        "in_out_pairs": [
+            {
+                "in": "08:40:48",
+                "out": "14:35:50"
+            }
+        ]
+    },
+    {
+        "user_id": "4",
+        "date": "2025-06-07",
+        "clock_in": "08:41:48",
+        "clock_out": "08:41:48",
+        "final_clock": "08:41:48",
+        "raw_punches": [
+            "08:41:48"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "13",
+        "date": "2025-06-07",
+        "clock_in": "08:44:03",
+        "clock_out": "08:44:03",
+        "final_clock": "08:44:03",
+        "raw_punches": [
+            "08:44:03"
+        ],
+        "in_out_pairs": []
+    },
+    {
+        "user_id": "29",
+        "date": "2025-06-07",
+        "clock_in": "09:03:26",
+        "clock_out": "09:03:26",
+        "final_clock": "09:03:26",
+        "raw_punches": [
+            "09:03:26"
+        ],
+        "in_out_pairs": []
+    }
+]

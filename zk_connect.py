@@ -1,16 +1,24 @@
 import requests
 import json
 import time
+import json
+import pandas as pd
+
+from pathlib import Path
+
 from zk import ZK
 from datetime import datetime
+from collections import defaultdict
 
+from pathlib import Path
 # Configuration
 PRODUCTION_URL = "https://hrm.boxleocourier.com/api/v1/syncZkteco"  # Your production URL
+# response = requests.post(PRODUCTION_URL, data=payload, verify=False)
 LOCAL_URL = "http://127.0.0.1:8000/api/v1/syncZkteco"  # Your local testing URL
 ZKTECO_IP = "192.168.100.240"
 ZKTECO_PORT = 4370
-USE_PRODUCTION = True # Set to True when ready to send to production
-USE_REAL_DEVICE = False  # Set to True when ready to use actual ZKTeco device
+USE_PRODUCTION = False # Set to True when ready to send to production
+USE_REAL_DEVICE = True  # Set to True when ready to use actual ZKTeco device
 INTERVAL_MINUTES = 1
 
 def log_message(message):
@@ -18,8 +26,38 @@ def log_message(message):
     with open("/home/engineer/Desktop/ZK/zkteco_debug.log", "a") as f:
         f.write(f"{datetime.now()}: {message}\n")
 
+# def fetch_from_zkteco():
+#     """Fetch attendance data from ZKTeco device"""
+#     zk = ZK(ZKTECO_IP, port=ZKTECO_PORT, timeout=5)
+#     try:
+#         log_message("Connecting to ZKTeco device...")
+#         conn = zk.connect()
+#         conn.disable_device()
+
+#         attendances = conn.get_attendance()
+        
+#         data = []
+#         for record in attendances:
+#             data.append({
+#                 "user_id": record.user_id,
+#                 # "name": record.name,
+#                 "time": record.timestamp.strftime("%Y-%m-%d %H:%M:%S")
+#             })
+#          # Log the attendance data fetched
+#         log_message(f"Attendance data: {json.dumps(data)}")    
+
+#         conn.enable_device()
+#         conn.disconnect()
+        
+#         log_message(f"Fetched {len(data)} attendance records from device")
+#         return data
+        
+#     except Exception as e:
+#         log_message(f"Error connecting to ZKTeco device: {str(e)}")
+#         return None
+
 def fetch_from_zkteco():
-    """Fetch attendance data from ZKTeco device"""
+    """Fetch and structure attendance data from ZKTeco"""
     zk = ZK(ZKTECO_IP, port=ZKTECO_PORT, timeout=5)
     try:
         log_message("Connecting to ZKTeco device...")
@@ -28,23 +66,81 @@ def fetch_from_zkteco():
 
         attendances = conn.get_attendance()
         
-        data = []
+        grouped = defaultdict(list)
         for record in attendances:
-            data.append({
-                "user_id": record.user_id,
-                "name": record.name,
-                "time": record.timestamp.strftime("%Y-%m-%d %H:%M:%S")
+            user_id = str(record.user_id)
+            date_str = record.timestamp.strftime("%Y-%m-%d")
+            time_str = record.timestamp.strftime("%H:%M:%S")
+            grouped[(user_id, date_str)].append(record.timestamp)
+
+        structured_data = []
+        for (user_id, date_str), punches in grouped.items():
+            punches.sort()  # chronological order
+            clock_in = punches[0].strftime("%H:%M:%S")
+            clock_out = punches[-1].strftime("%H:%M:%S")
+            final_clock = clock_out
+            raw_punches = [p.strftime("%H:%M:%S") for p in punches]
+            
+            # Build in/out pairs
+            in_out_pairs = []
+            for i in range(0, len(punches) - 1, 2):
+                in_time = punches[i].strftime("%H:%M:%S")
+                out_time = punches[i + 1].strftime("%H:%M:%S") if i + 1 < len(punches) else None
+                if out_time:
+                    in_out_pairs.append({"in": in_time, "out": out_time})
+
+            structured_data.append({
+                "user_id": user_id,
+                "date": date_str,
+                "clock_in": clock_in,
+                "clock_out": clock_out,
+                "final_clock": final_clock,
+                "raw_punches": raw_punches,
+                "in_out_pairs": in_out_pairs
             })
 
+        log_message(f"Structured attendance: {json.dumps(structured_data)}")
+        
+        
+        
+           # ✅ Save structured data to JSON and Excel for validation
+      
+        output_dir = Path("attendance_exports")
+        output_dir.mkdir(exist_ok=True)
+
+        # Save JSON
+        json_path = output_dir / "attendance_data.json"
+        with open(json_path, "w") as f:
+            json.dump(structured_data, f, indent=4)
+        log_message(f"Saved attendance data to JSON: {json_path}")
+
+        # Save Excel
+        excel_path = output_dir / "attendance_data.xlsx"
+        rows = []
+        for record in structured_data:
+            for pair in record["in_out_pairs"]:
+                rows.append({
+                    "User ID": record["user_id"],
+                    "Date": record["date"],
+                    "Clock In": record["clock_in"],
+                    "Clock Out": record["clock_out"],
+                    "Final Clock": record["final_clock"],
+                    "Raw Punches": ", ".join(record["raw_punches"]),
+                    "In Time": pair["in"],
+                    "Out Time": pair["out"]
+                })
+        df = pd.DataFrame(rows)
+        df.to_excel(excel_path, index=False)
+        log_message(f"Saved attendance data to Excel: {excel_path}")
+        
         conn.enable_device()
         conn.disconnect()
         
-        log_message(f"Fetched {len(data)} attendance records from device")
-        return data
-        
+        return structured_data
+
     except Exception as e:
         log_message(f"Error connecting to ZKTeco device: {str(e)}")
-        return None
+        return []
 
 def get_test_data():
     """Get test data for development"""
@@ -69,6 +165,11 @@ def get_test_data():
         },
         {
             "user_id": "2", 
+            "name": "John Doe",
+            "time": (now.replace(hour=18, minute=0)).strftime("%Y-%m-%d %H:%M:%S")
+        },
+           {
+            "user_id": "3", 
             "name": "John Doe",
             "time": (now.replace(hour=18, minute=0)).strftime("%Y-%m-%d %H:%M:%S")
         },
